@@ -10,6 +10,18 @@ body{
     user-select: none;          /* Likely future */
 }
 
+/* The dashboard div */
+.dash_div{
+    width': 90%;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+    textAlign: center;
+}
 
 .app_title{
     
