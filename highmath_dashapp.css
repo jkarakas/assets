@@ -50,3 +50,20 @@ body{
     height: 400px;
     vertical-align: middle
 }
+
+.chart_div p{
+    color: #2a3f5f;
+    font-size: 13px;
+    text-align: center;   
+}
+
+td{
+    text-align: left;
+    padding: 0px;
+}
+table{
+    border: 1px;
+    font-size:1.3rem;
+    width:100%;
+    font-family:Ubuntu;
+}
