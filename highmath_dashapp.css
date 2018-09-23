@@ -10,18 +10,32 @@ body{
     user-select: none;          /* Likely future */
 }
 
+the 
 .app-title{
-    color:white;
+
+}
+
+/* The box fort tittle */
+.app_title{
+    
+/*     The box */
+    border:1px solid #C8D4E3;
+    border-radius: 15px;
+    background-color: #283e4a;
+    height:60px;
+    vertical-align:middle;
+    
+/*     The letters */
+    color: #dce3e8;
     font-size:3.5rem;
     letter-spacing:-.1rem;
     font-weight: lighter;
     vertical-align:middle
 }
 
-.title-box{
-    border:1px solid #C8D4E3;
-    border-radius: 15px;
+.chart_div{
     background-color: white;
-    height:60px;
-    vertical-align:middle;
+    border: 1px solid #C8D4E3;
+    border-radius: 3px;
+    height: 300px;
 }
