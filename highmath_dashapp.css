@@ -25,7 +25,7 @@ body{
     font-size:3.5rem;
     letter-spacing:-.1rem;
     font-weight: lighter;
-    vertical-align:middle
+    vertical-align: middle;
 }
 
 .chart_div{
@@ -34,5 +34,5 @@ body{
     margin-top: 20px;
     border-radius: 15px;
     height: 400px;
-    vertical-align': 'middle
+    vertical-alig: middle
 }
