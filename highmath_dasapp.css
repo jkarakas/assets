@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: #283e4a;
+    font-family: 'Open Sans', sans-serif;
+    color: #506784;
+    -webkit-user-select: none;  /* Chrome all / Safari all */
+    -moz-user-select: none;     /* Firefox all */
+    -ms-user-select: none;      /* IE 10+ */
+    user-select: none;          /* Likely future */
+}
+
+.app-title{
+    color:white;
+    font-size:3.5rem;
+    letter-spacing:-.1rem;
+    font-weight: lighter;
+    vertical-align:middle
+}
+
+.title-box{
+    border:1px solid #C8D4E3;
+    border-radius: 15px;
+    background-color: white;
+    height:60px;
+    vertical-align:middle;
+}
