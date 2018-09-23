@@ -22,9 +22,10 @@ body{
     
 /*     The letters */
     color: #dce3e8;
-    font-size:3.5rem;
-    letter-spacing:-.1rem;
+    font-size: 3 rem;
+    letter-spacing: -.1 rem;
     font-weight: lighter;
+    textAlign: center;
     vertical-align: middle;
 }
 
