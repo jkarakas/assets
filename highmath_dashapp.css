@@ -57,6 +57,10 @@ body{
     text-align: center;   
 }
 
+.widget_headers {
+    font-size: 80%;
+}
+
 td{
     text-align: left;
     padding: 0px;
