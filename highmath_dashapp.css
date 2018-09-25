@@ -34,7 +34,7 @@ body{
     
 /*     The letters */
     color: #dce3e8;
-    font-size: 3rem;
+    font-size: 3.5rem;
     letter-spacing: -.1rem;
     font-weight: lighter;
     textAlign: center;
@@ -58,11 +58,11 @@ body{
 }
 
 .widget_headers {
-    font-size: 80%;
+    font-size: 70%;
 }
 
 .card_headers {
-    font-size: 80%;
+    font-size: 70%;
 }
 
 td{
