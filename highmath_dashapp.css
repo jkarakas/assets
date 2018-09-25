@@ -61,6 +61,10 @@ body{
     font-size: 80%;
 }
 
+.card_headers {
+    font-size: 80%;
+}
+
 td{
     text-align: left;
     padding: 0px;
