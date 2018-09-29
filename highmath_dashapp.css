@@ -8,8 +8,12 @@ body{
     -moz-user-select: none;     /* Firefox all */
     -ms-user-select: none;      /* IE 10+ */
     user-select: none;          /* Likely future */
+}
+
+.shrink{
     -webkit-transform: scale(0.67);
        -moz-transform: scale(0.67);
+       -ms-transform:scale(0.67);
             transform: scale(0.67);
 }
 
