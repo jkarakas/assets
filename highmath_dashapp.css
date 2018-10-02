@@ -11,10 +11,10 @@ body{
 }
 
 .shrink{
-    -webkit-transform: scale(0.67);
-       -moz-transform: scale(0.67);
-       -ms-transform:scale(0.67);
-            transform: scale(0.67);
+    -webkit-transform: scale(0.87);
+       -moz-transform: scale(0.87);
+       -ms-transform:scale(0.87);
+            transform: scale(0.87);
 }
 
 /* The dashboard div */
