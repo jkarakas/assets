@@ -42,6 +42,7 @@ body{
     background-color: #283e4a;
     height:70px;
     vertical-align:middle;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.050);
     
 /*     The letters */
     color: #dce3e8;
@@ -59,7 +60,8 @@ body{
     margin-bottom: 10x;
     border-radius: 15px;
     height: 400px;
-    vertical-align: middle
+    vertical-align: middle;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.050);
 }
 
 .chart_div p{
