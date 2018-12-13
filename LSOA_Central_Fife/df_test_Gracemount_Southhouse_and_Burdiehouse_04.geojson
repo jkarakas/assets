@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Gracemount, Southhouse and Burdiehouse - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.162131164398758, 55.90326438308746 ], [ -3.164602056653673, 55.904796264632814 ], [ -3.161932378493871, 55.905917719490738 ], [ -3.157698546247615, 55.902866590811037 ], [ -3.160583893380901, 55.902542903817469 ], [ -3.162131164398758, 55.90326438308746 ] ] ] } }
+]
+}

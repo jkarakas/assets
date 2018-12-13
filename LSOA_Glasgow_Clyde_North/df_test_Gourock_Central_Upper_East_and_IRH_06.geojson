@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Gourock Central, Upper East and IRH - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.814292759555957, 55.946573909808585 ], [ -4.814556295987829, 55.947507062590127 ], [ -4.810721905257695, 55.948089035089268 ], [ -4.808265882218841, 55.945519263198044 ], [ -4.813189857942328, 55.944806981391999 ], [ -4.814292759555957, 55.946573909808585 ] ] ] } }
+]
+}

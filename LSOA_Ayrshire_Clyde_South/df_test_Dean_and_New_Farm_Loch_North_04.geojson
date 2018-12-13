@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Dean and New Farm Loch North - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.474207014172478, 55.620081891073617 ], [ -4.476141605212208, 55.618950359377394 ], [ -4.479091168446748, 55.619956271059223 ], [ -4.475280998646061, 55.622177182166965 ], [ -4.471874476725767, 55.62119484614572 ], [ -4.474207014172478, 55.620081891073617 ] ] ] } }
+]
+}

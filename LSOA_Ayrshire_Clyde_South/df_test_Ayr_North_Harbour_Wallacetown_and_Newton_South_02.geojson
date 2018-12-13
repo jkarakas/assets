@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Ayr North Harbour, Wallacetown and Newton South - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.617521723372001, 55.471721898716027 ], [ -4.620617703265085, 55.471161232090616 ], [ -4.624719620073727, 55.47240363881113 ], [ -4.624761117473269, 55.473265675577473 ], [ -4.622673392147389, 55.475019350082576 ], [ -4.616295363989462, 55.47422904148646 ], [ -4.617521723372001, 55.471721898716027 ] ] ] } }
+]
+}

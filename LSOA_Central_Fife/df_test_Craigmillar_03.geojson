@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Craigmillar - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.146366532630247, 55.931869887269087 ], [ -3.141120854692963, 55.932565550629299 ], [ -3.141207411762218, 55.930800358589742 ], [ -3.14419081670311, 55.929194484549917 ], [ -3.146366532630247, 55.931869887269087 ] ] ] } }
+]
+}

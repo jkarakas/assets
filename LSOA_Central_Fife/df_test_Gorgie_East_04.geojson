@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Gorgie East - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.225072832354229, 55.943612312426822 ], [ -3.225066504244193, 55.942683254052355 ], [ -3.225351667154431, 55.942189134138559 ], [ -3.225072832354229, 55.943612312426822 ] ] ] } }
+]
+}

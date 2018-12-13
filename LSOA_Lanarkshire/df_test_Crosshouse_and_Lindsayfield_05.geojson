@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Crosshouse and Lindsayfield - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.210337519389567, 55.740316861594174 ], [ -4.211923785970344, 55.74132186453636 ], [ -4.215531938498617, 55.742299376392914 ], [ -4.211418408484483, 55.743371129785437 ], [ -4.209868800855976, 55.742733947880311 ], [ -4.210337519389567, 55.740316861594174 ] ] ] } }
+]
+}

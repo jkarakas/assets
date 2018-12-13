@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Marchmont West - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.194209263908715, 55.935485735680551 ], [ -3.197386577996298, 55.936254608214881 ], [ -3.196817731223439, 55.937014909665258 ], [ -3.19467985170571, 55.937597418629501 ], [ -3.194209263908715, 55.935485735680551 ] ] ] } }
+]
+}

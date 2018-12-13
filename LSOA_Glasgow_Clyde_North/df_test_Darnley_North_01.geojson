@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Darnley North - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.340756017673541, 55.80635747138934 ], [ -4.343407201167008, 55.807663992786587 ], [ -4.344524108930711, 55.809541719850721 ], [ -4.341323147286483, 55.810121557789003 ], [ -4.340756017673541, 55.80635747138934 ] ] ] } }
+]
+}

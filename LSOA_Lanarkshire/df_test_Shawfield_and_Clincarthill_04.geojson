@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Shawfield and Clincarthill - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.215123855948938, 55.8264114034192 ], [ -4.216101015347938, 55.828345599942097 ], [ -4.213028507859579, 55.82888306752141 ], [ -4.208195719026165, 55.828405401996811 ], [ -4.210434909996376, 55.827068843843854 ], [ -4.215123855948938, 55.8264114034192 ] ] ] } }
+]
+}

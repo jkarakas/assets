@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Broughton South - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.185244701554829, 55.96147326164072 ], [ -3.187189734338444, 55.961907978894949 ], [ -3.186870360925056, 55.962564567461094 ], [ -3.184155878002265, 55.963276003673414 ], [ -3.185244701554829, 55.96147326164072 ] ] ] } }
+]
+}

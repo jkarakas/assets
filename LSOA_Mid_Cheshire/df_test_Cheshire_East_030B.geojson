@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Cheshire East 030B" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.37798408774699, 53.145064010218185 ], [ -2.368372260984442, 53.148633984672536 ], [ -2.357672703114907, 53.14717711271048 ], [ -2.365209504959582, 53.144346624075197 ], [ -2.37798408774699, 53.145064010218185 ] ] ] } }
+]
+}

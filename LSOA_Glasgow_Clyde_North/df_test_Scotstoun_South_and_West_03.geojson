@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Scotstoun South and West - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.356839209176827, 55.880255444315516 ], [ -4.356004966757589, 55.881154648641356 ], [ -4.353394718870859, 55.880951419831781 ], [ -4.353379357245781, 55.880505368397273 ], [ -4.356839209176827, 55.880255444315516 ] ] ] } }
+]
+}

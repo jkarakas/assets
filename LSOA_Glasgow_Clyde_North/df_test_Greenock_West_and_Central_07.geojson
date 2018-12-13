@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Greenock West and Central - 07" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.769107338892296, 55.947435771203658 ], [ -4.770663808418707, 55.947046379415255 ], [ -4.774214639299163, 55.950084916320122 ], [ -4.773035761143722, 55.950226947989989 ], [ -4.769144614463801, 55.94797942149615 ], [ -4.769107338892296, 55.947435771203658 ] ] ] } }
+]
+}

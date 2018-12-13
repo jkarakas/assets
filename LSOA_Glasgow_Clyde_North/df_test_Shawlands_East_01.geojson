@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Shawlands East - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.273420130766695, 55.828645722539854 ], [ -4.276453834928251, 55.827277419491011 ], [ -4.27899168874856, 55.828353849127332 ], [ -4.277086726681037, 55.830456278946627 ], [ -4.273420130766695, 55.828645722539854 ] ] ] } }
+]
+}

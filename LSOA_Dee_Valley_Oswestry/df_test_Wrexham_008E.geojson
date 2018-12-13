@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Wrexham 008E" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.983344971025115, 53.065036594222974 ], [ -2.985791461655662, 53.062452406855293 ], [ -2.990345473873735, 53.059918785135373 ], [ -2.99051443988472, 53.068567905415115 ], [ -2.983344971025115, 53.065036594222974 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA": "Shawlands West - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.278877193436038, 55.831556608357396 ], [ -4.279905654811295, 55.83183233464252 ], [ -4.278333762106551, 55.833792974571473 ], [ -4.274420519033296, 55.834019752822741 ], [ -4.278877193436038, 55.831556608357396 ] ] ] } }
+]
+}
