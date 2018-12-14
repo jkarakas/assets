@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "LSOA": "East Clober and Mains Estate - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.32960054351818, 55.942680322259143 ], [ -4.333744376248445, 55.942880477640898 ], [ -4.33560496188852, 55.943725983647923 ], [ -4.333387299021968, 55.94664877020432 ], [ -4.329366509709267, 55.945983171448376 ], [ -4.32960054351818, 55.942680322259143 ] ] ] } }
+{ "type": "Feature", "properties": { "LSOA": "East Clober and Mains Estate - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.32960054351818, 55.942680322259143 ], [ -4.33560496188852, 55.943725983647923 ], [ -4.333387299021968, 55.94664877020432 ], [ -4.32960054351818, 55.942680322259143 ] ] ] } }
 ]
 }

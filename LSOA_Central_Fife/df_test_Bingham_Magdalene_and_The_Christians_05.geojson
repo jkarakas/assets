@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "LSOA": "Bingham, Magdalene and The Christians - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.108608738477617, 55.944246966798119 ], [ -3.109079059172383, 55.94743820538168 ], [ -3.103521617528852, 55.94571465893177 ], [ -3.103195476366628, 55.944387285765046 ], [ -3.108608738477617, 55.944246966798119 ] ] ] } }
+{ "type": "Feature", "properties": { "LSOA": "Bingham, Magdalene and The Christians - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.108608738477617, 55.944246966798119 ], [ -3.109079059172383, 55.94743820538168 ], [ -3.103521617528852, 55.94571465893177 ], [ -3.108608738477617, 55.944246966798119 ] ] ] } }
 ]
 }

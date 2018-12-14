@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "LSOA": "Garrowhill East and Swinton - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.112734230427577, 55.854604434459944 ], [ -4.115593910772154, 55.855278480570071 ], [ -4.113165077026625, 55.858625926926116 ], [ -4.109748526383057, 55.855962284291401 ], [ -4.112734230427577, 55.854604434459944 ] ] ] } }
+{ "type": "Feature", "properties": { "LSOA": "Garrowhill East and Swinton - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.112734230427577, 55.854604434459944 ], [ -4.115593910772154, 55.855278480570071 ], [ -4.109748526383057, 55.855962284291401 ], [ -4.112734230427577, 55.854604434459944 ] ] ] } }
 ]
 }

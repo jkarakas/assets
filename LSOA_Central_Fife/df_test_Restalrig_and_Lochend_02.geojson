@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "LSOA": "Restalrig and Lochend - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.156181510321981, 55.959105882594649 ], [ -3.159501722814934, 55.96164066763572 ], [ -3.159713551713084, 55.962588945125958 ], [ -3.154041441242777, 55.962138305509292 ], [ -3.156181510321981, 55.959105882594649 ] ] ] } }
+{ "type": "Feature", "properties": { "LSOA": "Restalrig and Lochend - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.156181510321981, 55.959105882594649 ], [ -3.159713551713084, 55.962588945125958 ], [ -3.154041441242777, 55.962138305509292 ], [ -3.156181510321981, 55.959105882594649 ] ] ] } }
 ]
 }

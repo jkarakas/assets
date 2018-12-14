@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "LSOA": "Hillside and Calton Hill - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.18450560217784, 55.957944269835288 ], [ -3.182100193626629, 55.960289911941715 ], [ -3.180162848324654, 55.959370617901548 ], [ -3.180850070194273, 55.957826605353233 ], [ -3.18450560217784, 55.957944269835288 ] ] ] } }
+{ "type": "Feature", "properties": { "LSOA": "Hillside and Calton Hill - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.18450560217784, 55.957944269835288 ], [ -3.182100193626629, 55.960289911941715 ], [ -3.180162848324654, 55.959370617901548 ], [ -3.18450560217784, 55.957944269835288 ] ] ] } }
 ]
 }

@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "LSOA": "Bonaly and The Pentlands - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.270893820197945, 55.902406093884167 ], [ -3.273249359492899, 55.903703372976317 ], [ -3.2679069029916, 55.905282767255919 ], [ -3.261699272414522, 55.904277364858032 ], [ -3.270893820197945, 55.902406093884167 ] ] ] } }
+{ "type": "Feature", "properties": { "LSOA": "Bonaly and The Pentlands - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.270893820197945, 55.902406093884167 ], [ -3.273249359492899, 55.903703372976317 ], [ -3.261699272414522, 55.904277364858032 ], [ -3.270893820197945, 55.902406093884167 ] ] ] } }
 ]
 }

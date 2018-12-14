@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "LSOA": "Roystonhill, Blochairn, and Provanmill - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.229888002569671, 55.869553742549684 ], [ -4.231352684191955, 55.870096897017767 ], [ -4.228979805734069, 55.871277803529757 ], [ -4.226482551091468, 55.871493781825031 ], [ -4.224508830087815, 55.870522898332133 ], [ -4.229888002569671, 55.869553742549684 ] ] ] } }
+{ "type": "Feature", "properties": { "LSOA": "Roystonhill, Blochairn, and Provanmill - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.229888002569671, 55.869553742549684 ], [ -4.231352684191955, 55.870096897017767 ], [ -4.224508830087815, 55.870522898332133 ], [ -4.229888002569671, 55.869553742549684 ] ] ] } }
 ]
 }

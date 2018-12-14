@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "LSOA": "Lower Bow and Larkfield, Fancy Farm, Mallard Bowl - 07" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.790317777866393, 55.946106478224188 ], [ -4.789517797686858, 55.948993923097063 ], [ -4.79031039468918, 55.949689283014216 ], [ -4.786822981407423, 55.949225513242602 ], [ -4.784342449092475, 55.946360297728447 ], [ -4.787174917491934, 55.945084758662873 ], [ -4.790317777866393, 55.946106478224188 ] ] ] } }
+{ "type": "Feature", "properties": { "LSOA": "Lower Bow and Larkfield, Fancy Farm, Mallard Bowl - 07" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.790317777866393, 55.946106478224188 ], [ -4.79031039468918, 55.949689283014216 ], [ -4.784342449092475, 55.946360297728447 ], [ -4.790317777866393, 55.946106478224188 ] ] ] } }
 ]
 }
