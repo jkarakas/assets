@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Carse and Grangemouth Old Town - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.770747048358973, 56.068170732179219 ], [ -3.767785119910198, 56.066743708042125 ], [ -3.764798483478007, 56.062770578570628 ], [ -3.770747048358973, 56.068170732179219 ] ] ] } }
-]
-}

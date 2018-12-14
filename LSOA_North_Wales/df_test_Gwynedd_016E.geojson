@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Gwynedd 016E" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.888851878411122, 52.741744660811058 ], [ -3.875960878926164, 52.740354498236819 ], [ -3.870111152202151, 52.73173535473547 ], [ -3.906604795653355, 52.733252554975593 ], [ -3.888851878411122, 52.741744660811058 ] ] ] } }
-]
-}

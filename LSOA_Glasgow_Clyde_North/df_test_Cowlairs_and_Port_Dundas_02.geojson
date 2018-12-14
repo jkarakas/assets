@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cowlairs and Port Dundas - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.256018591457559, 55.877759213196647 ], [ -4.254564389673449, 55.878046503833382 ], [ -4.246068169006012, 55.87211741024494 ], [ -4.256018591457559, 55.877759213196647 ] ] ] } }
-]
-}

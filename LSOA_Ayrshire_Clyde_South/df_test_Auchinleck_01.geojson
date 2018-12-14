@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Auchinleck - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.289348418747676, 55.469656163609343 ], [ -4.29052006248537, 55.469670186925562 ], [ -4.289910301795491, 55.47388799369368 ], [ -4.28665806549872, 55.476356622305318 ], [ -4.289348418747676, 55.469656163609343 ] ] ] } }
-]
-}

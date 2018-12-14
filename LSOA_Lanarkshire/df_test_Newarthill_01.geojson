@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Newarthill - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.93509135758267, 55.811893182382754 ], [ -3.941642920116394, 55.814516065958244 ], [ -3.940877714760055, 55.817098377457036 ], [ -3.920216746586648, 55.826679202818895 ], [ -3.93509135758267, 55.811893182382754 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Halfway, Hallside and Drumsagard - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.140425498576126, 55.814274662862537 ], [ -4.138441864630805, 55.816588818464474 ], [ -4.132709106210459, 55.812729367507828 ], [ -4.140425498576126, 55.814274662862537 ] ] ] } }
-]
-}

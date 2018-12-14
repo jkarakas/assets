@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cupar Westfield South" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.024803807991276, 56.313848741261843 ], [ -3.018257143980801, 56.313754357175817 ], [ -3.016773765925212, 56.313675708610454 ], [ -3.024803807991276, 56.313848741261843 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "New Town West - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.207564841671134, 55.956479752104613 ], [ -3.208757489701017, 55.957996272790304 ], [ -3.203895143840501, 55.958201779829906 ], [ -3.20243058834253, 55.955647618066926 ], [ -3.207564841671134, 55.956479752104613 ] ] ] } }
-]
-}

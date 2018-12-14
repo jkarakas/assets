@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Sefton 021E" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.997016957940748, 53.499854654238696 ], [ -3.000025571741218, 53.497150893224266 ], [ -3.005211197143494, 53.494750568490055 ], [ -3.008324727630322, 53.501045788072098 ], [ -2.997016957940748, 53.499854654238696 ] ] ] } }
-]
-}

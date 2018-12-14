@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Glenkens - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.857096383234171, 54.966527248611072 ], [ -3.911600101376457, 54.985231057200465 ], [ -3.934194156848505, 55.011091466717055 ], [ -3.860223154024458, 55.006780693922437 ], [ -3.857096383234171, 54.966527248611072 ] ] ] } }
-]
-}

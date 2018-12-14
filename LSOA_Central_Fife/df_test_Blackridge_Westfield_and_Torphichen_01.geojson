@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Blackridge, Westfield and Torphichen - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.765334792021816, 55.883200444902002 ], [ -3.777947279511243, 55.883959387449366 ], [ -3.769683315641178, 55.886100595328188 ], [ -3.765334792021816, 55.883200444902002 ] ] ] } }
-]
-}

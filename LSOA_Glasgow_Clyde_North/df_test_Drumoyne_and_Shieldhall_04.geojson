@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Drumoyne and Shieldhall - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.340837881496604, 55.852860751137825 ], [ -4.345647622938676, 55.853398254000695 ], [ -4.337982020014004, 55.859844553377748 ], [ -4.336591833136568, 55.856653390599746 ], [ -4.336910988119215, 55.85607629679788 ], [ -4.340837881496604, 55.852860751137825 ] ] ] } }
-]
-}

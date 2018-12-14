@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Whitehill - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.064203349362072, 55.783246856372365 ], [ -4.067527391727838, 55.784839352527271 ], [ -4.066317643533213, 55.788385704424037 ], [ -4.062170618031668, 55.787840362609806 ], [ -4.064203349362072, 55.783246856372365 ] ] ] } }
-]
-}

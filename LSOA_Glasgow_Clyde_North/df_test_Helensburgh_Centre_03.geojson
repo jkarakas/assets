@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Helensburgh Centre - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.722732655409163, 56.002855570666227 ], [ -4.72396772004523, 56.000929077954183 ], [ -4.734283665803257, 56.002166801921867 ], [ -4.732583566363399, 56.004920604592236 ], [ -4.722732655409163, 56.002855570666227 ] ] ] } }
-]
-}

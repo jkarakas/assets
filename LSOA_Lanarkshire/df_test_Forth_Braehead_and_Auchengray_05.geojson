@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Forth, Braehead and Auchengray - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.69072839115559, 55.766146099278863 ], [ -3.684580873687204, 55.77181111566788 ], [ -3.68229823356837, 55.765345129582222 ], [ -3.69072839115559, 55.766146099278863 ] ] ] } }
-]
-}

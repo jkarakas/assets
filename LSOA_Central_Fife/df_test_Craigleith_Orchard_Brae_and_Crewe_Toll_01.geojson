@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Craigleith, Orchard Brae and Crewe Toll - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.231708660063666, 55.952308666125177 ], [ -3.230663897094704, 55.954614061846989 ], [ -3.224420575550432, 55.95641292169357 ], [ -3.222008656494736, 55.955098026870168 ], [ -3.231708660063666, 55.952308666125177 ] ] ] } }
-]
-}

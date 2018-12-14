@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Thornhill - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.791239478947912, 55.179379128817757 ], [ -3.939108203802362, 55.114768733209608 ], [ -3.950729735827471, 55.117072772813344 ], [ -4.065777282797725, 55.268985696450557 ], [ -3.791239478947912, 55.179379128817757 ] ] ] } }
-]
-}

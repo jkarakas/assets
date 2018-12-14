@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kingseat" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.41230613576093, 56.095000187931277 ], [ -3.414206962903449, 56.101682639129542 ], [ -3.407796661774425, 56.103570981013071 ], [ -3.403897658859471, 56.099281198532047 ], [ -3.41230613576093, 56.095000187931277 ] ] ] } }
-]
-}

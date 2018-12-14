@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Falkirk - Camelon West - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.832272005344584, 56.004210508983171 ], [ -3.836377854745133, 56.005901763661882 ], [ -3.823696270071927, 56.007033582178103 ], [ -3.822918511781653, 56.004142486591654 ], [ -3.832272005344584, 56.004210508983171 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Barloch - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.306000378651188, 55.942308086303413 ], [ -4.312809904995746, 55.945243674566441 ], [ -4.318023578981567, 55.950849566284226 ], [ -4.305411575438051, 55.948222430240577 ], [ -4.306000378651188, 55.942308086303413 ] ] ] } }
-]
-}

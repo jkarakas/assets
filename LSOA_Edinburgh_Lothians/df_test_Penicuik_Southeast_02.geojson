@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Penicuik Southeast - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.22210826424564, 55.82309582459694 ], [ -3.226054992358732, 55.829187567291953 ], [ -3.222487230619702, 55.825889392785193 ], [ -3.22210826424564, 55.82309582459694 ] ] ] } }
-]
-}

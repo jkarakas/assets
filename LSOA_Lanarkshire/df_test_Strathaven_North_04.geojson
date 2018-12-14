@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Strathaven North - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.069678997716079, 55.687072537768877 ], [ -4.063917469855099, 55.686737173053807 ], [ -4.065115403133673, 55.684973051000703 ], [ -4.069678997716079, 55.687072537768877 ] ] ] } }
-]
-}

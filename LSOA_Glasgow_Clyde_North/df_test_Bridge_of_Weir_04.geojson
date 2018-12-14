@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Bridge of Weir - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.580296038834977, 55.858695463582634 ], [ -4.585076150320345, 55.858791280706022 ], [ -4.587760283842169, 55.859741530242324 ], [ -4.571893179121215, 55.860748460912745 ], [ -4.580296038834977, 55.858695463582634 ] ] ] } }
-]
-}

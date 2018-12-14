@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Siverknowes and Davidson's Mains - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.272107767368968, 55.966820289131903 ], [ -3.2773756661769, 55.968185512899261 ], [ -3.26999466383003, 55.968827891232365 ], [ -3.268161420083543, 55.96666328298582 ], [ -3.272107767368968, 55.966820289131903 ] ] ] } }
-]
-}

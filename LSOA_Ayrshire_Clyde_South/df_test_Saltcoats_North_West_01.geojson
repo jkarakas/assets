@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Saltcoats North West - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.789182271475968, 55.649338755424814 ], [ -4.793347395669898, 55.650083261019027 ], [ -4.785650015268831, 55.652777521656382 ], [ -4.789182271475968, 55.649338755424814 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Carfin North - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.952074940713695, 55.814849878295917 ], [ -3.962408305513372, 55.812946178197059 ], [ -3.96460084246101, 55.813810965327484 ], [ -3.952114249715127, 55.816453176658186 ], [ -3.952074940713695, 55.814849878295917 ] ] ] } }
-]
-}

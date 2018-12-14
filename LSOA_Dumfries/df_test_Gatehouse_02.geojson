@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Gatehouse - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.18729100554983, 54.879335172266508 ], [ -4.195419400977444, 54.878885298756913 ], [ -4.200414494826649, 54.887855305803306 ], [ -4.185969058481669, 54.883822985595899 ], [ -4.18729100554983, 54.879335172266508 ] ] ] } }
-]
-}

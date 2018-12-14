@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "The Murray - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.183971580818637, 55.755141512623922 ], [ -4.186811252651236, 55.755477450334716 ], [ -4.185336318582231, 55.759942671832071 ], [ -4.179115464799206, 55.758939560808329 ], [ -4.183971580818637, 55.755141512623922 ] ] ] } }
-]
-}

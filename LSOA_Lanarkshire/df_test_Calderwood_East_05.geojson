@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Calderwood East - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.144557145555241, 55.77832226223142 ], [ -4.147520579921182, 55.779268825660438 ], [ -4.144449276132875, 55.781002363955743 ], [ -4.135637950208472, 55.778810136170065 ], [ -4.144557145555241, 55.77832226223142 ] ] ] } }
-]
-}

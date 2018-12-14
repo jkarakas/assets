@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Admiralty North" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.410238375616276, 56.036299633623244 ], [ -3.416458838142533, 56.03602592876311 ], [ -3.420574650675586, 56.038836035476642 ], [ -3.413075325268572, 56.039623053680309 ], [ -3.410238375616276, 56.036299633623244 ] ] ] } }
-]
-}

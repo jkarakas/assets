@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Coldingham" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.16727963476912, 55.887585108308471 ], [ -2.160404201255032, 55.889722306879207 ], [ -2.154636386638007, 55.888221616813873 ], [ -2.15243491242462, 55.883448852247497 ], [ -2.16727963476912, 55.887585108308471 ] ] ] } }
-]
-}

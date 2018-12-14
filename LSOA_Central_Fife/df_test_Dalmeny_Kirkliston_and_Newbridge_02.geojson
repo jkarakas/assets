@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Dalmeny, Kirkliston and Newbridge - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.403314541005146, 55.952878793874902 ], [ -3.40503046348074, 55.949569264145332 ], [ -3.409536602180145, 55.954167840211525 ], [ -3.403314541005146, 55.952878793874902 ] ] ] } }
-]
-}

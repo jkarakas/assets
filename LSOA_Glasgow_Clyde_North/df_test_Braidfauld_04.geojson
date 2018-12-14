@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Braidfauld - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.176759757381382, 55.839606915352519 ], [ -4.18298115588902, 55.842606249360635 ], [ -4.178865350134902, 55.844126193270363 ], [ -4.174207338452926, 55.841377629160938 ], [ -4.176759757381382, 55.839606915352519 ] ] ] } }
-]
-}

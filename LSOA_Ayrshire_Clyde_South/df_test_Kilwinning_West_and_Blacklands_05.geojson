@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kilwinning West and Blacklands - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.704688419711544, 55.647366170913912 ], [ -4.70563093255654, 55.6485858372819 ], [ -4.70639767058128, 55.649791398763426 ], [ -4.696553247072893, 55.651806033479737 ], [ -4.697800637645562, 55.649603305895397 ], [ -4.704688419711544, 55.647366170913912 ] ] ] } }
-]
-}

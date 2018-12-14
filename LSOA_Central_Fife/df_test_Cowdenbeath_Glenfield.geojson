@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cowdenbeath Glenfield" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.343449656507974, 56.1168620210033 ], [ -3.344164518284522, 56.116798118919789 ], [ -3.348166896394291, 56.11615284157353 ], [ -3.353500179442563, 56.118279314402372 ], [ -3.344814147081453, 56.11870447770908 ], [ -3.343449656507974, 56.1168620210033 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Linlithgow North - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.567651053194147, 55.978547142590372 ], [ -3.575772068785636, 55.978434588915036 ], [ -3.574686475163046, 55.98208778406039 ], [ -3.57084114612911, 55.982295285602923 ], [ -3.567651053194147, 55.978547142590372 ] ] ] } }
-]
-}

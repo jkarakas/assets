@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Glenmavis and Greengairs - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.98955028955795, 55.904715409121337 ], [ -3.996240835926489, 55.887250864404635 ], [ -3.996118289299257, 55.886676425627087 ], [ -4.017851507984155, 55.895807064603915 ], [ -3.98955028955795, 55.904715409121337 ] ] ] } }
-]
-}

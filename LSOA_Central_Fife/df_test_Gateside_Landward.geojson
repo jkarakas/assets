@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Gateside Landward" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.25887073707672, 56.283805354405033 ], [ -3.271035662227666, 56.261451848000164 ], [ -3.288594117761781, 56.235400494121834 ], [ -3.29577256953112, 56.3035706386095 ], [ -3.25887073707672, 56.283805354405033 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Falkirk - Lochgreen and Lionthorn - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.798821362016915, 55.985095722206225 ], [ -3.794846467584831, 55.985719183664187 ], [ -3.791997998776107, 55.986112070536976 ], [ -3.791231109481692, 55.983681566770997 ], [ -3.798821362016915, 55.985095722206225 ] ] ] } }
-]
-}

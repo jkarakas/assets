@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Tweedbank - North" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.760143878811861, 55.606093343774042 ], [ -2.764910072477503, 55.604826059175778 ], [ -2.772028160301127, 55.606003479221052 ], [ -2.765739119253811, 55.607585476177043 ], [ -2.760143878811861, 55.606093343774042 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Hamilton Centre and Low Parks - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.036869135376519, 55.774285949710155 ], [ -4.037462819334669, 55.777107031890544 ], [ -4.041436361973953, 55.781130210166111 ], [ -4.028530079881798, 55.775816899843029 ], [ -4.036869135376519, 55.774285949710155 ] ] ] } }
-]
-}

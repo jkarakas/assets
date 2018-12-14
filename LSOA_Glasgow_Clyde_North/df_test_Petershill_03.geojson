@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Petershill - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.217951608874263, 55.880010583800086 ], [ -4.221396254431012, 55.879877004027634 ], [ -4.222769834885705, 55.880089923162771 ], [ -4.21813414118879, 55.882348515357997 ], [ -4.217951608874263, 55.880010583800086 ] ] ] } }
-]
-}

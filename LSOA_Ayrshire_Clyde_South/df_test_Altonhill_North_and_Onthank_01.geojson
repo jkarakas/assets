@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Altonhill North and Onthank - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.495456472362964, 55.631365889220483 ], [ -4.488954761669527, 55.630823951714298 ], [ -4.489314149842533, 55.628629542369879 ], [ -4.495456472362964, 55.631365889220483 ] ] ] } }
-]
-}

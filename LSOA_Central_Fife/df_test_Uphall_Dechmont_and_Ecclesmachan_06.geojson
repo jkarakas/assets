@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Uphall, Dechmont and Ecclesmachan - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.508391492731888, 55.930556115006041 ], [ -3.51310125907018, 55.928188954255191 ], [ -3.506810150679457, 55.935589622026676 ], [ -3.508391492731888, 55.930556115006041 ] ] ] } }
-]
-}

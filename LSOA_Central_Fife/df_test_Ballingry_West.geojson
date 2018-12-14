@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Ballingry West" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.335608646203912, 56.165232278801909 ], [ -3.329357158129244, 56.161920320959197 ], [ -3.330002043805994, 56.16112040578318 ], [ -3.335608646203912, 56.165232278801909 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "High Bonnybridge and Greenhill - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.890660020629065, 55.989449187777929 ], [ -3.892343192516771, 55.99228801765971 ], [ -3.887780411990787, 55.994039883031867 ], [ -3.890660020629065, 55.989449187777929 ] ] ] } }
-]
-}

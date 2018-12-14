@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Maddiston and Rumford - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.689310884895681, 55.968600359282021 ], [ -3.70021207202092, 55.968360564212695 ], [ -3.694544741322948, 55.971035640792557 ], [ -3.689310884895681, 55.968600359282021 ] ] ] } }
-]
-}

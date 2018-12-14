@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Gartlea - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.975002284490786, 55.85769692660876 ], [ -3.977923496929567, 55.858584627281907 ], [ -3.974538511378128, 55.861629407944413 ], [ -3.975002284490786, 55.85769692660876 ] ] ] } }
-]
-}

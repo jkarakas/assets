@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Mearns Village, Westacres and Greenfarm - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.341569640457299, 55.767787040964123 ], [ -4.343566676083698, 55.770777839713624 ], [ -4.341173397315228, 55.771281847417193 ], [ -4.335198398790747, 55.771350626735732 ], [ -4.336630007597954, 55.768428440592913 ], [ -4.341569640457299, 55.767787040964123 ] ] ] } }
-]
-}

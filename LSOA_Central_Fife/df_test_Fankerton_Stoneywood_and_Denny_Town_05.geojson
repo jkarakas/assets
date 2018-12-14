@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Fankerton, Stoneywood and Denny Town - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.906770916778925, 56.015616918379884 ], [ -3.90808498359442, 56.017656928970538 ], [ -3.908087984947962, 56.021177170892031 ], [ -3.907498506740457, 56.022825098734025 ], [ -3.896135089733556, 56.024470880695404 ], [ -3.906770916778925, 56.015616918379884 ] ] ] } }
-]
-}

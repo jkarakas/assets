@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "City Centre - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.94159692888048, 56.123047092187747 ], [ -3.939663658986551, 56.124058524795622 ], [ -3.938424312287515, 56.122663330954857 ], [ -3.937691880391629, 56.119744634728221 ], [ -3.94159692888048, 56.123047092187747 ] ] ] } }
-]
-}

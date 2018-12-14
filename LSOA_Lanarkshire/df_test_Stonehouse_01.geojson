@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Stonehouse - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.991840911997647, 55.687044503210281 ], [ -3.999407478712545, 55.687725606509353 ], [ -3.990937060423767, 55.690524509358923 ], [ -3.99094473992441, 55.690362616827109 ], [ -3.991840911997647, 55.687044503210281 ] ] ] } }
-]
-}

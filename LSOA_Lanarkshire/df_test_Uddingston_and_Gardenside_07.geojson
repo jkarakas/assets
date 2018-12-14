@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Uddingston and Gardenside - 07" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.08474722579599, 55.82700686099728 ], [ -4.084325604697484, 55.82424955708553 ], [ -4.090093039435999, 55.823432682324828 ], [ -4.095856086396028, 55.823314212341586 ], [ -4.093759387856948, 55.829099819847563 ], [ -4.08474722579599, 55.82700686099728 ] ] ] } }
-]
-}

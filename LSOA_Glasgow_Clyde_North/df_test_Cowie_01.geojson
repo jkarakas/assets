@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cowie - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.862516613107741, 56.080420246296214 ], [ -3.86341068841084, 56.073963533360057 ], [ -3.873161696444068, 56.074930213192197 ], [ -3.872384917402667, 56.080585928259588 ], [ -3.862516613107741, 56.080420246296214 ] ] ] } }
-]
-}

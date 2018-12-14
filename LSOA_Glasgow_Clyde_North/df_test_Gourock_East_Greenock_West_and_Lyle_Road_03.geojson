@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Gourock East, Greenock West and Lyle Road - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.788489296949894, 55.958363938291257 ], [ -4.800286349866602, 55.956652018377689 ], [ -4.801612414864092, 55.95739904499969 ], [ -4.78447103906169, 55.962461510409369 ], [ -4.784950656242247, 55.96043211608545 ], [ -4.788489296949894, 55.958363938291257 ] ] ] } }
-]
-}

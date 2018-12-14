@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Westfield - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.042695700717862, 55.935451970441918 ], [ -4.0332934217065, 55.934457255224487 ], [ -4.035325818727812, 55.933219430317926 ], [ -4.042695700717862, 55.935451970441918 ] ] ] } }
-]
-}

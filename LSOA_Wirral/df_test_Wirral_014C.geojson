@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Wirral 014C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.155740205814848, 53.399510123681758 ], [ -3.165665822663707, 53.397696237912783 ], [ -3.168833174025997, 53.397990951688357 ], [ -3.171731964068205, 53.401110485216641 ], [ -3.155740205814848, 53.399510123681758 ] ] ] } }
-]
-}

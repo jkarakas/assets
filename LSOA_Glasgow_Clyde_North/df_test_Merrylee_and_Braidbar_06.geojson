@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Merrylee and Braidbar - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.293003154493378, 55.809228378878196 ], [ -4.292218105361702, 55.811281427626646 ], [ -4.28295606848793, 55.808574663834364 ], [ -4.293003154493378, 55.809228378878196 ] ] ] } }
-]
-}

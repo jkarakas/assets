@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Scotstoun North and East - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.356004966757589, 55.881154648641356 ], [ -4.358413442368469, 55.881858690321408 ], [ -4.358046412809152, 55.88316693281741 ], [ -4.35114791546695, 55.881226920364945 ], [ -4.353394718870859, 55.880951419831781 ], [ -4.356004966757589, 55.881154648641356 ] ] ] } }
-]
-}

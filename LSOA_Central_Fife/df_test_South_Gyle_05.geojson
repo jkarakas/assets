@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "South Gyle - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.298627962609712, 55.936361000947691 ], [ -3.299986579445352, 55.934864040170496 ], [ -3.307360657469175, 55.934696134830027 ], [ -3.303475598193246, 55.937378071998623 ], [ -3.298627962609712, 55.936361000947691 ] ] ] } }
-]
-}

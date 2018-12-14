@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Auchenback - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.38326649241534, 55.79164785612965 ], [ -4.386889500211839, 55.790798119926286 ], [ -4.387076322655694, 55.794728652608796 ], [ -4.383714442422335, 55.793801130133986 ], [ -4.38326649241534, 55.79164785612965 ] ] ] } }
-]
-}

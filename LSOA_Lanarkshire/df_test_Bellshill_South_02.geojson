@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Bellshill South - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.032531408542741, 55.814988259601236 ], [ -4.030728144858727, 55.817138996821143 ], [ -4.026657991542157, 55.815606467575051 ], [ -4.031184596893922, 55.813033371505377 ], [ -4.032531408542741, 55.814988259601236 ] ] ] } }
-]
-}

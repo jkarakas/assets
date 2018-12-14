@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kilwinning Whitehirst Park and Woodside - 07" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.709726238893625, 55.658372281286709 ], [ -4.713491235040001, 55.659219624109326 ], [ -4.715169436586223, 55.663274868960407 ], [ -4.711363786963189, 55.663671789120826 ], [ -4.709835069342759, 55.662321888149016 ], [ -4.709726238893625, 55.658372281286709 ] ] ] } }
-]
-}

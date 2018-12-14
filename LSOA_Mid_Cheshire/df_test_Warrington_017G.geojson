@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Warrington 017G" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.584990115281256, 53.398845932675918 ], [ -2.58515546461184, 53.397436054332125 ], [ -2.591601006272972, 53.399596175454626 ], [ -2.584990115281256, 53.398845932675918 ] ] ] } }
-]
-}

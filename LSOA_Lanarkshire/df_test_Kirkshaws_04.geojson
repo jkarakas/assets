@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kirkshaws - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.035619952672992, 55.842657615187989 ], [ -4.040710538327792, 55.843241637132429 ], [ -4.04267123914398, 55.847353261464463 ], [ -4.035373816832595, 55.845560283887089 ], [ -4.035619952672992, 55.842657615187989 ] ] ] } }
-]
-}

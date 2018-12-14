@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Altonhill South, Longpark and Hillhead - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.484862579787096, 55.617286735763095 ], [ -4.491812509244999, 55.614431178128783 ], [ -4.494798993354508, 55.615564881999937 ], [ -4.501590702123219, 55.61868658400941 ], [ -4.491860656950773, 55.620695065458342 ], [ -4.484862579787096, 55.617286735763095 ] ] ] } }
-]
-}

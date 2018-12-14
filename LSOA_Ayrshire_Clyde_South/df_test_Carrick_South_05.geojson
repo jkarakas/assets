@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Carrick South - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.769373079187243, 55.250593768092713 ], [ -4.844002588746083, 55.27345232742843 ], [ -4.828908256646979, 55.332792595660237 ], [ -4.792884536436999, 55.289611443302583 ], [ -4.769373079187243, 55.250593768092713 ] ] ] } }
-]
-}

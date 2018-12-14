@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Western Harbour and Leith Docks - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.19093538520093, 55.981380884648864 ], [ -3.191082950056985, 55.980512535395988 ], [ -3.195970416172829, 55.982389620539216 ], [ -3.19325904435376, 55.985883607504555 ], [ -3.19093538520093, 55.981380884648864 ] ] ] } }
-]
-}

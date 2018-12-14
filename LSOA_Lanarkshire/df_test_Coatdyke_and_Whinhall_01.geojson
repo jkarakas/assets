@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Coatdyke and Whinhall - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.989389663034186, 55.856146347971958 ], [ -3.995552157193527, 55.857419211797442 ], [ -3.989308839362962, 55.860438112178059 ], [ -3.987703124351277, 55.858597751488944 ], [ -3.989389663034186, 55.856146347971958 ] ] ] } }
-]
-}

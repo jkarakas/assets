@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Restalrig (Loganlea) and Craigentinny West - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.145048918430301, 55.957931155285792 ], [ -3.14570949303337, 55.960036324768275 ], [ -3.14207648449441, 55.961229168787007 ], [ -3.13668116322101, 55.960236752439727 ], [ -3.13908216435859, 55.95966062994615 ], [ -3.145048918430301, 55.957931155285792 ] ] ] } }
-]
-}

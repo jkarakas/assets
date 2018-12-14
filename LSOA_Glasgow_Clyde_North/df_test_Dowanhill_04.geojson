@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Dowanhill - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.296104907222943, 55.875139272392104 ], [ -4.298817777072667, 55.876679408156029 ], [ -4.295646347681294, 55.878203589680851 ], [ -4.2920819708228, 55.877342385674851 ], [ -4.296104907222943, 55.875139272392104 ] ] ] } }
-]
-}

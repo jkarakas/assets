@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Stenton Central" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.165869506174284, 56.175278255832026 ], [ -3.166294771617292, 56.177039209983896 ], [ -3.166519757115353, 56.178129390440645 ], [ -3.156368215317172, 56.175480996861722 ], [ -3.165869506174284, 56.175278255832026 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Helensburgh North - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.708497010225429, 56.004589448598765 ], [ -4.713812959039524, 56.006962298160957 ], [ -4.71251575939234, 56.009282908981895 ], [ -4.705619693771705, 56.007259296340955 ], [ -4.708497010225429, 56.004589448598765 ] ] ] } }
-]
-}

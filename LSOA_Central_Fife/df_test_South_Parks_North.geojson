@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "South Parks North" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.185399849728976, 56.19643218428979 ], [ -3.193039123685101, 56.201623987857111 ], [ -3.183963959207276, 56.202133665122993 ], [ -3.178675562704685, 56.197889165841502 ], [ -3.185399849728976, 56.19643218428979 ] ] ] } }
-]
-}

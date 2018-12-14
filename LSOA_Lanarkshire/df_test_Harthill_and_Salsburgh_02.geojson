@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Harthill and Salsburgh - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.771712303009673, 55.856756757482209 ], [ -3.764161742165856, 55.858086244777219 ], [ -3.770253159354768, 55.854726249113376 ], [ -3.771712303009673, 55.856756757482209 ] ] ] } }
-]
-}

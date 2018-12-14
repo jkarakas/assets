@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Beith West - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.638277151875922, 55.74913902409142 ], [ -4.644921089151216, 55.752774304884404 ], [ -4.635362175360157, 55.752451139969907 ], [ -4.638277151875922, 55.74913902409142 ] ] ] } }
-]
-}

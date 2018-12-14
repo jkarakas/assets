@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Grangemouth - Town Centre - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.726874331769691, 56.015454980743989 ], [ -3.719611570702284, 56.01618892995613 ], [ -3.720304342120703, 56.014540368337649 ], [ -3.726874331769691, 56.015454980743989 ] ] ] } }
-]
-}

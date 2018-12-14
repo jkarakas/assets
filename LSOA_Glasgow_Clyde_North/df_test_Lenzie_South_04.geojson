@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Lenzie South - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.136438048731697, 55.919158431568334 ], [ -4.142136838046167, 55.920632157343448 ], [ -4.143233215764007, 55.923824196145155 ], [ -4.139526406422753, 55.924667829485806 ], [ -4.136438048731697, 55.919158431568334 ] ] ] } }
-]
-}

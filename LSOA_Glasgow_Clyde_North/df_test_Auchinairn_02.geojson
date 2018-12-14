@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Auchinairn - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.224871878419565, 55.903967267919739 ], [ -4.217289806328117, 55.902585227651478 ], [ -4.229277755516761, 55.901290207350648 ], [ -4.224871878419565, 55.903967267919739 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Carmyle and Mount Vernon South - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.154055304862799, 55.828763625614975 ], [ -4.157576285763978, 55.831218331495293 ], [ -4.152426404236846, 55.831937684192248 ], [ -4.154055304862799, 55.828763625614975 ] ] ] } }
-]
-}

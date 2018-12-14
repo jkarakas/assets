@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Rosyth Pease Hill North" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.431330510696124, 56.030401668760128 ], [ -3.432621708117325, 56.030402923641475 ], [ -3.436388901108218, 56.032021460822072 ], [ -3.436433144664615, 56.034263863253919 ], [ -3.426774083378447, 56.033863816380425 ], [ -3.431330510696124, 56.030401668760128 ] ] ] } }
-]
-}

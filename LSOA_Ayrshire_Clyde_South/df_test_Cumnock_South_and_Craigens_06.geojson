@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cumnock South and Craigens - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.25754306290853, 55.448530046311284 ], [ -4.255845389734897, 55.453068411895281 ], [ -4.254651755923001, 55.452848480423327 ], [ -4.246990590586075, 55.450085038200207 ], [ -4.25754306290853, 55.448530046311284 ] ] ] } }
-]
-}

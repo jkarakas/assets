@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Barmulloch - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.208855285340443, 55.882705770601902 ], [ -4.206063428775209, 55.887439620882333 ], [ -4.201395583259106, 55.885776691219178 ], [ -4.202908173526814, 55.883042735232841 ], [ -4.208855285340443, 55.882705770601902 ] ] ] } }
-]
-}

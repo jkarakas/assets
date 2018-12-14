@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Carnwadric West - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.32270209001007, 55.81080085042575 ], [ -4.313189496923258, 55.809922086276799 ], [ -4.319472936376368, 55.80830033971376 ], [ -4.322796886684696, 55.808068291058305 ], [ -4.32270209001007, 55.81080085042575 ] ] ] } }
-]
-}

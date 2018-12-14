@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Polmont - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.707574347501077, 55.990690780772759 ], [ -3.715006345625556, 55.991645497236028 ], [ -3.715372336325507, 55.991701528533923 ], [ -3.707574347501077, 55.990690780772759 ] ] ] } }
-]
-}

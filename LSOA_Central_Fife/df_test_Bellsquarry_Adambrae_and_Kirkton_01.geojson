@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Bellsquarry, Adambrae and Kirkton - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.515291567276273, 55.866598983263579 ], [ -3.521032809215715, 55.864254678948349 ], [ -3.537634898481611, 55.865450157189713 ], [ -3.529135394588923, 55.869866687096327 ], [ -3.524207982999923, 55.871797140527114 ], [ -3.515291567276273, 55.866598983263579 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kelty Seafar" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.377633818841705, 56.136756647782697 ], [ -3.382001351278215, 56.139292188582395 ], [ -3.368874381095424, 56.137446519274512 ], [ -3.377633818841705, 56.136756647782697 ] ] ] } }
-]
-}

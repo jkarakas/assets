@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Banknock, Haggs and Longcroft - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.931680364393419, 55.992691937486228 ], [ -3.915346331493724, 55.998883233128687 ], [ -3.906514596752042, 56.000024266385182 ], [ -3.931680364393419, 55.992691937486228 ] ] ] } }
-]
-}

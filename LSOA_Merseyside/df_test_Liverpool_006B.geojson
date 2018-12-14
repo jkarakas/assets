@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Liverpool 006B" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.954329544888088, 53.454831405913225 ], [ -2.956740969530637, 53.452367812513323 ], [ -2.959398615560586, 53.453535099611805 ], [ -2.959997458979072, 53.455615049864704 ], [ -2.954329544888088, 53.454831405913225 ] ] ] } }
-]
-}

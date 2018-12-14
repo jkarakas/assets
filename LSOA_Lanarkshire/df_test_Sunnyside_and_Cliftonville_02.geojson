@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Sunnyside and Cliftonville - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.023111414495422, 55.867833271364255 ], [ -4.028263031430463, 55.869518181697018 ], [ -4.018000688684076, 55.870567961876276 ], [ -4.023111414495422, 55.867833271364255 ] ] ] } }
-]
-}

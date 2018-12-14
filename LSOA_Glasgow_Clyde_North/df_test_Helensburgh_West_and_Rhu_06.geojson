@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Helensburgh West and Rhu - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.741787603794901, 56.009502146248934 ], [ -4.744540793759402, 56.008618827560539 ], [ -4.748363037986135, 56.009801031344793 ], [ -4.7372518572451, 56.013535855343491 ], [ -4.733459765237242, 56.010509996630574 ], [ -4.741787603794901, 56.009502146248934 ] ] ] } }
-]
-}

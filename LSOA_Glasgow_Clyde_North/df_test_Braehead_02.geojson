@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Braehead - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.931712006035564, 56.107331413489035 ], [ -3.933005048985883, 56.111310144653089 ], [ -3.927717515781019, 56.108813707636855 ], [ -3.931712006035564, 56.107331413489035 ] ] ] } }
-]
-}

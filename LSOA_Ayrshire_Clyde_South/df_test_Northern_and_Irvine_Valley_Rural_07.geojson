@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Northern and Irvine Valley Rural - 07" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.537533167509856, 55.710927250402662 ], [ -4.532740195840836, 55.716077665575803 ], [ -4.52899876999183, 55.710241245554101 ], [ -4.537533167509856, 55.710927250402662 ] ] ] } }
-]
-}

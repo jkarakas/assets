@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Garvock Hill West" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.441169493469007, 56.071574526788261 ], [ -3.443765233702861, 56.073970310477932 ], [ -3.436899795615796, 56.075806479904173 ], [ -3.435475041911376, 56.074275285004404 ], [ -3.441169493469007, 56.071574526788261 ] ] ] } }
-]
-}

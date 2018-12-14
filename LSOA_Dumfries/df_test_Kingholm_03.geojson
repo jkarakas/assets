@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kingholm - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.586299580123097, 55.024344430694292 ], [ -3.605444633784043, 55.046941090595418 ], [ -3.599625216813206, 55.053841781378132 ], [ -3.596011691339059, 55.055940250259084 ], [ -3.586299580123097, 55.024344430694292 ] ] ] } }
-]
-}

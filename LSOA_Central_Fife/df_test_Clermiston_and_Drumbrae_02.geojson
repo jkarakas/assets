@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Clermiston and Drumbrae - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.28564921425365, 55.955816189684107 ], [ -3.289110188680992, 55.955375675015418 ], [ -3.289620745988347, 55.95531641848325 ], [ -3.29216305133006, 55.958551551748954 ], [ -3.284028480650773, 55.961044727154004 ], [ -3.28564921425365, 55.955816189684107 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "North Leith and Newhaven - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.178993296093728, 55.975397705212188 ], [ -3.180353336584359, 55.97518224540223 ], [ -3.182653192342852, 55.975456716321062 ], [ -3.182410605726573, 55.977065548382193 ], [ -3.182064625886545, 55.977699733848738 ], [ -3.178993296093728, 55.975397705212188 ] ] ] } }
-]
-}

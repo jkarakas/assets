@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Leuchars North" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.88685041063005, 56.380500190172462 ], [ -2.88643971711468, 56.383320363076841 ], [ -2.876042159139366, 56.38118407140896 ], [ -2.88685041063005, 56.380500190172462 ] ] ] } }
-]
-}

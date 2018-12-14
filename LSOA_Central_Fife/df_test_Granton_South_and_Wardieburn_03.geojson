@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Granton South and Wardieburn - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.225480573072751, 55.977787855238589 ], [ -3.230933592093175, 55.977419021746563 ], [ -3.231408964370376, 55.978762095687138 ], [ -3.225802761171904, 55.978853922990872 ], [ -3.225480573072751, 55.977787855238589 ] ] ] } }
-]
-}

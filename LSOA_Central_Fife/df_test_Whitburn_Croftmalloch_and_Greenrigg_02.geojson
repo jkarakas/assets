@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Whitburn, Croftmalloch and Greenrigg - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.682266726802618, 55.855703679744842 ], [ -3.687227426633108, 55.854782054208435 ], [ -3.689736385041473, 55.85958226550796 ], [ -3.689226603126304, 55.860721542988244 ], [ -3.682266726802618, 55.855703679744842 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kilmarnock South Central and Caprington - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.497075583599073, 55.603043717964667 ], [ -4.496549557005928, 55.60327998778962 ], [ -4.49499357692285, 55.606259012734775 ], [ -4.490442348117522, 55.604095495059461 ], [ -4.490028139968014, 55.603321917339585 ], [ -4.497075583599073, 55.603043717964667 ] ] ] } }
-]
-}

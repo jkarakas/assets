@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Marchmont East and Sciennes - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.194063272487156, 55.934903093630773 ], [ -3.194209263908715, 55.935485735680551 ], [ -3.19467985170571, 55.937597418629501 ], [ -3.19402396451904, 55.937787819145882 ], [ -3.192222929378893, 55.937005555438859 ], [ -3.194063272487156, 55.934903093630773 ] ] ] } }
-]
-}

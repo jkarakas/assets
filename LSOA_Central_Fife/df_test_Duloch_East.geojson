@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Duloch East" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.398557241531659, 56.058784075296401 ], [ -3.401655718315405, 56.061314179175639 ], [ -3.400621257136863, 56.062491114996632 ], [ -3.394728245115799, 56.062642401359916 ], [ -3.398557241531659, 56.058784075296401 ] ] ] } }
-]
-}

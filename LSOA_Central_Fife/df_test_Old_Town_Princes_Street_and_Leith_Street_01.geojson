@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Old Town, Princes Street and Leith Street - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.189354873738585, 55.945803123265762 ], [ -3.195180864965233, 55.946762089139604 ], [ -3.192047473637846, 55.949533019126839 ], [ -3.189354873738585, 55.945803123265762 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "West Kilbride and Seamill - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.847734689204521, 55.689138972315121 ], [ -4.852707814506784, 55.692029439068207 ], [ -4.852690360376169, 55.692958446381994 ], [ -4.846336569874804, 55.692831567028549 ], [ -4.847734689204521, 55.689138972315121 ] ] ] } }
-]
-}

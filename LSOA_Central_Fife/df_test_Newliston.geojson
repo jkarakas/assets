@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Newliston" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.208192484154799, 56.125257259133846 ], [ -3.202570973455355, 56.12658619410648 ], [ -3.198521282537868, 56.125691093600921 ], [ -3.197413863047804, 56.123185968645423 ], [ -3.208192484154799, 56.125257259133846 ] ] ] } }
-]
-}

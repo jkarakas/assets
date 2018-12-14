@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Port Glasgow Upper, West and Central - 07" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.687351301607966, 55.928200185009459 ], [ -4.691387697451684, 55.932949014788434 ], [ -4.690891885520025, 55.932726152800392 ], [ -4.684987473669056, 55.930434458195165 ], [ -4.682401265545522, 55.929423925843651 ], [ -4.687351301607966, 55.928200185009459 ] ] ] } }
-]
-}

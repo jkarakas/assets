@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cross Stobbs - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.405329920956667, 55.809247667322438 ], [ -4.407744231827881, 55.811109337721454 ], [ -4.400694771742029, 55.811129586973372 ], [ -4.400852944818774, 55.80976297339523 ], [ -4.405329920956667, 55.809247667322438 ] ] ] } }
-]
-}

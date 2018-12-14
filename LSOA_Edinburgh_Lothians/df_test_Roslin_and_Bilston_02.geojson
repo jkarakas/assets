@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Roslin and Bilston - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.163043399994264, 55.856410612922986 ], [ -3.170626865405126, 55.854879148125249 ], [ -3.171370025556651, 55.859220269572212 ], [ -3.169438118512415, 55.859762774961908 ], [ -3.163043399994264, 55.856410612922986 ] ] ] } }
-]
-}

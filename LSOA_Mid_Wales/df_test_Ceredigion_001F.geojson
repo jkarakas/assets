@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Ceredigion 001F" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.039598307331264, 52.50123899548079 ], [ -3.997470672462448, 52.468416582585171 ], [ -4.072919510834924, 52.458797336418272 ], [ -4.039598307331264, 52.50123899548079 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Newbattle and Dalhousie - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.093710801072851, 55.869893716402515 ], [ -3.095825032508575, 55.87086765910567 ], [ -3.096893249597867, 55.871336286493872 ], [ -3.091596441227722, 55.87555851734173 ], [ -3.089937029807503, 55.874738133741531 ], [ -3.093710801072851, 55.869893716402515 ] ] ] } }
-]
-}

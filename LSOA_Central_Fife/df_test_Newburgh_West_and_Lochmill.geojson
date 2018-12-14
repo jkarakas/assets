@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Newburgh West and Lochmill" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.23506546764992, 56.349554901416475 ], [ -3.215950277539012, 56.3417653184217 ], [ -3.22067055108301, 56.328987197685073 ], [ -3.266846125367068, 56.32810119135771 ], [ -3.240658178755822, 56.353399446860415 ], [ -3.23506546764992, 56.349554901416475 ] ] ] } }
-]
-}

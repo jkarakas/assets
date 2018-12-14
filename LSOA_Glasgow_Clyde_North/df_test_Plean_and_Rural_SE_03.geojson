@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Plean and Rural SE - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.868681862495884, 56.062048764576929 ], [ -3.877574219544674, 56.0672067503899 ], [ -3.860820595114042, 56.06233236248314 ], [ -3.868681862495884, 56.062048764576929 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Lochgelly Central and Eastern" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.308185626756966, 56.122799106159327 ], [ -3.312516649026477, 56.124801822430641 ], [ -3.308857139835611, 56.126467012364103 ], [ -3.306463446615184, 56.127040463795204 ], [ -3.308185626756966, 56.122799106159327 ] ] ] } }
-]
-}

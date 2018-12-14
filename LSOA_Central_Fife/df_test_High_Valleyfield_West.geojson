@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "High Valleyfield West" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.611753312017588, 56.062401558741989 ], [ -3.601023755979851, 56.063943038349159 ], [ -3.599110520514651, 56.060795824433647 ], [ -3.599810129417224, 56.060625009035569 ], [ -3.611753312017588, 56.062401558741989 ] ] ] } }
-]
-}

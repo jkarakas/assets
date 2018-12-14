@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Bellfield and Kirkstyle - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.484209888407356, 55.592545160371714 ], [ -4.488309043424726, 55.595231389832129 ], [ -4.476377843165896, 55.597124759540343 ], [ -4.484209888407356, 55.592545160371714 ] ] ] } }
-]
-}

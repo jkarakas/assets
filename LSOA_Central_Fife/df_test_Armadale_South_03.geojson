@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Armadale South - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.703861477464276, 55.88878176292441 ], [ -3.708062990545856, 55.895607037541971 ], [ -3.700563403142644, 55.895607082181812 ], [ -3.700985782194846, 55.891863942201326 ], [ -3.703861477464276, 55.88878176292441 ] ] ] } }
-]
-}

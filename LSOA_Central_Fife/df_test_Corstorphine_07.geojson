@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Corstorphine - 07" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.287904882021318, 55.938854775369698 ], [ -3.281199859822156, 55.939799383287045 ], [ -3.276101823026245, 55.938735006539083 ], [ -3.285403582261833, 55.937290449604539 ], [ -3.287904882021318, 55.938854775369698 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Douglas, Coalburn and Rigside - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.888121209240612, 55.588035135282091 ], [ -3.887892393103726, 55.596408145122965 ], [ -3.884217745467837, 55.593334647003246 ], [ -3.888121209240612, 55.588035135282091 ] ] ] } }
-]
-}

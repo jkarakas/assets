@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Canongate, Southside and Dumbiedykes - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.182982432664762, 55.943845948938375 ], [ -3.183734461908228, 55.945681070209076 ], [ -3.179998602613459, 55.945827665895301 ], [ -3.180672085740805, 55.944089542557741 ], [ -3.182982432664762, 55.943845948938375 ] ] ] } }
-]
-}

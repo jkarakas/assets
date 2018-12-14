@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Glenwood South - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.23996196918081, 55.801563357461049 ], [ -4.241956453527849, 55.801556355159519 ], [ -4.242480044184837, 55.803704738169415 ], [ -4.23984623798963, 55.804025083021031 ], [ -4.23996196918081, 55.801563357461049 ] ] ] } }
-]
-}

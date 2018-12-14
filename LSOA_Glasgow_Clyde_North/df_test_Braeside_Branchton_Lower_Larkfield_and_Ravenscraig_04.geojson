@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Braeside, Branchton, Lower Larkfield and Ravenscraig - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.830731491051333, 55.941166382113217 ], [ -4.831759456800429, 55.946289184016514 ], [ -4.823998548620061, 55.946523126689321 ], [ -4.830731491051333, 55.941166382113217 ] ] ] } }
-]
-}

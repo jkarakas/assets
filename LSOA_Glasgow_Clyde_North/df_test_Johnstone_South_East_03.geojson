@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Johnstone South East - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.509673735841549, 55.825700926126196 ], [ -4.504357407314964, 55.826028568851321 ], [ -4.502072081800118, 55.823521925478062 ], [ -4.509673735841549, 55.825700926126196 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Greenend and Carnbroe - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.999591692532066, 55.847246041155799 ], [ -4.005638572191164, 55.847704832747333 ], [ -4.008877310357102, 55.846570787195773 ], [ -4.00809003559105, 55.849554850839269 ], [ -3.999591692532066, 55.847246041155799 ] ] ] } }
-]
-}

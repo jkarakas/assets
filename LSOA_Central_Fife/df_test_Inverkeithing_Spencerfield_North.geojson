@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Inverkeithing Spencerfield North" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.387720934689691, 56.030318185164596 ], [ -3.390300612613085, 56.032211966733897 ], [ -3.392929899196499, 56.036476593592766 ], [ -3.383979091063213, 56.036105117904711 ], [ -3.387720934689691, 56.030318185164596 ] ] ] } }
-]
-}

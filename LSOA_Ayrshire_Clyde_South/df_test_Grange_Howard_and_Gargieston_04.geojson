@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Grange, Howard and Gargieston - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.507285985412407, 55.596354642741979 ], [ -4.51458865012898, 55.59619980239497 ], [ -4.509576452318563, 55.598836219108478 ], [ -4.505217751665159, 55.603134920328763 ], [ -4.500671699220445, 55.60080410382978 ], [ -4.507285985412407, 55.596354642741979 ] ] ] } }
-]
-}

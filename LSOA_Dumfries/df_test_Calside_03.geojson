@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Calside - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.573805578894848, 55.057348574222409 ], [ -3.588333341373208, 55.058869738137822 ], [ -3.579350978419392, 55.059391055634713 ], [ -3.573805578894848, 55.057348574222409 ] ] ] } }
-]
-}

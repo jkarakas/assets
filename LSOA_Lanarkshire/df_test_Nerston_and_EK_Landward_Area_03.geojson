@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Nerston and EK Landward Area - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.153895859013715, 55.751915850743686 ], [ -4.158832180991991, 55.754732112541049 ], [ -4.156170210860382, 55.755300135685289 ], [ -4.150958660472274, 55.75469036548602 ], [ -4.153895859013715, 55.751915850743686 ] ] ] } }
-]
-}

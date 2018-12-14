@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Lomond Shore - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.652792869433103, 55.962603324734594 ], [ -4.656888716973951, 55.963671127359092 ], [ -4.655116577600627, 55.967991302273482 ], [ -4.652792869433103, 55.962603324734594 ] ] ] } }
-]
-}

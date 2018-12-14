@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cairnhill - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.976747521273364, 55.856509589815303 ], [ -3.970124096640047, 55.855708170788205 ], [ -3.979147872878751, 55.851240634934889 ], [ -3.982038421414196, 55.854357474893185 ], [ -3.976747521273364, 55.856509589815303 ] ] ] } }
-]
-}

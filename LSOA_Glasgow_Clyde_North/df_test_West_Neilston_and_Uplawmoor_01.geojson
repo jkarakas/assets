@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "West Neilston and Uplawmoor - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.443799930612395, 55.776893572016121 ], [ -4.441499449696216, 55.779561046833834 ], [ -4.43215015693702, 55.782260280124738 ], [ -4.431125738534838, 55.781416774317314 ], [ -4.430606706216537, 55.778835433751802 ], [ -4.443799930612395, 55.776893572016121 ] ] ] } }
-]
-}

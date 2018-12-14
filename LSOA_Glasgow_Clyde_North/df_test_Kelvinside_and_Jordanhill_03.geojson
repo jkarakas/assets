@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kelvinside and Jordanhill - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.334248013519825, 55.882573279145944 ], [ -4.337581015625267, 55.882159487158539 ], [ -4.347434713756552, 55.883814358949067 ], [ -4.339387934218359, 55.886913320588874 ], [ -4.335613823367239, 55.886942304594911 ], [ -4.334248013519825, 55.882573279145944 ] ] ] } }
-]
-}

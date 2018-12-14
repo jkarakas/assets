@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Jedburgh - Howden" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.551752314897912, 55.470684871875996 ], [ -2.543945993548961, 55.474700440947665 ], [ -2.547024847087058, 55.469699708719624 ], [ -2.551752314897912, 55.470684871875996 ] ] ] } }
-]
-}

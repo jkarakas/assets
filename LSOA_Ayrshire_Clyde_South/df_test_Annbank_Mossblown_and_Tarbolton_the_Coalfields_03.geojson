@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Annbank, Mossblown and Tarbolton - the Coalfields - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.528066024156955, 55.503553034768387 ], [ -4.529444756470824, 55.489349992943772 ], [ -4.520418353225123, 55.4781421502407 ], [ -4.523099507146343, 55.477800343193024 ], [ -4.571237495126806, 55.470285479795287 ], [ -4.532278955863603, 55.508490542612563 ], [ -4.528066024156955, 55.503553034768387 ] ] ] } }
-]
-}

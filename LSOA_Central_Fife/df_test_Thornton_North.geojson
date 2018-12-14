@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Thornton North" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.145369422098049, 56.166433102842021 ], [ -3.147030084186023, 56.166855778730437 ], [ -3.146156326257471, 56.170837865933692 ], [ -3.142716858920445, 56.168767973179982 ], [ -3.145369422098049, 56.166433102842021 ] ] ] } }
-]
-}

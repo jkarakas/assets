@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Abbey Parks South and Brucefield North West" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.456601477334095, 56.06501352041375 ], [ -3.462395077961228, 56.066580389642589 ], [ -3.462585779260772, 56.068222509031536 ], [ -3.453539528148962, 56.069865943689493 ], [ -3.44533837005433, 56.068333952002639 ], [ -3.448720065938631, 56.067721129794883 ], [ -3.456601477334095, 56.06501352041375 ] ] ] } }
-]
-}

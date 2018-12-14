@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Upper Nithsdale - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.926567408765311, 55.365663909623976 ], [ -3.92415344968899, 55.370432535050846 ], [ -3.918526958328254, 55.366997940098322 ], [ -3.926567408765311, 55.365663909623976 ] ] ] } }
-]
-}

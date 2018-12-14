@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Craigshill - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.493122896711627, 55.898211731898904 ], [ -3.497404370778979, 55.899679703539768 ], [ -3.489982250254636, 55.899239587197386 ], [ -3.493122896711627, 55.898211731898904 ] ] ] } }
-]
-}

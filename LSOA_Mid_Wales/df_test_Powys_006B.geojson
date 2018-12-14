@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Powys 006B" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.279456814663497, 52.661660273300889 ], [ -3.280716505359697, 52.635459625103692 ], [ -3.462538188259558, 52.632350806272434 ], [ -3.389413177408331, 52.691597839851021 ], [ -3.279456814663497, 52.661660273300889 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Mountcastle - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.134344679101043, 55.950455213920399 ], [ -3.136999758365445, 55.952327909124399 ], [ -3.135009698753813, 55.955121498917542 ], [ -3.128924403254628, 55.950747606759542 ], [ -3.134344679101043, 55.950455213920399 ] ] ] } }
-]
-}

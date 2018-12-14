@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Erskine East and Inchinnan - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.440622165085686, 55.888553366894207 ], [ -4.446322082873697, 55.890518086974986 ], [ -4.445035814397334, 55.892431509301375 ], [ -4.438653754040848, 55.891845998135693 ], [ -4.440622165085686, 55.888553366894207 ] ] ] } }
-]
-}

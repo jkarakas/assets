@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Mossneuk and Newlandsmuir - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.221145636254543, 55.750808012688879 ], [ -4.22407225340676, 55.754797837818302 ], [ -4.214521067913735, 55.756230265198788 ], [ -4.213540134894866, 55.755232359282388 ], [ -4.221145636254543, 55.750808012688879 ] ] ] } }
-]
-}

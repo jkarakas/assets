@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cheshire East 007E" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.31753073712836, 53.340888875075059 ], [ -2.313177546775055, 53.299498083113512 ], [ -2.340906970084764, 53.304448390188419 ], [ -2.349709517816291, 53.319298396882303 ], [ -2.31753073712836, 53.340888875075059 ] ] ] } }
-]
-}

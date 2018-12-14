@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Houston North - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.548262442245144, 55.868655560110426 ], [ -4.556317764161911, 55.866205422190234 ], [ -4.556008925371989, 55.871640494799635 ], [ -4.548262442245144, 55.868655560110426 ] ] ] } }
-]
-}

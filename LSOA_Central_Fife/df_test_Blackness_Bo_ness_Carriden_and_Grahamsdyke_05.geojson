@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Blackness, Bo'ness - Carriden and Grahamsdyke - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.589455263716769, 56.009050081123505 ], [ -3.589642522692709, 56.008682989739519 ], [ -3.588545235226922, 56.011034711995457 ], [ -3.589455263716769, 56.009050081123505 ] ] ] } }
-]
-}

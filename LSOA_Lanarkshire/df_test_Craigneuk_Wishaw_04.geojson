@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Craigneuk Wishaw - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.937468863933204, 55.776127110895438 ], [ -3.942831717241011, 55.779439485263133 ], [ -3.943243022099912, 55.779693601878137 ], [ -3.93089916926967, 55.777940956890056 ], [ -3.937468863933204, 55.776127110895438 ] ] ] } }
-]
-}

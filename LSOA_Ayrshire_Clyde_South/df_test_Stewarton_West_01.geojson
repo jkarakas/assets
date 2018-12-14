@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Stewarton West - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.524045502103041, 55.681558566681247 ], [ -4.518099240804702, 55.685088145439664 ], [ -4.516847931602338, 55.682392899200288 ], [ -4.518193041845469, 55.681975008752595 ], [ -4.524045502103041, 55.681558566681247 ] ] ] } }
-]
-}

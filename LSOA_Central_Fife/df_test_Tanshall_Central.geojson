@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Tanshall Central" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.205702827807746, 56.190656083323461 ], [ -3.207286796424649, 56.193170053690679 ], [ -3.198592701925191, 56.194669692580362 ], [ -3.203241310817912, 56.1912904991649 ], [ -3.205702827807746, 56.190656083323461 ] ] ] } }
-]
-}

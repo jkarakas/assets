@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Armadale - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.715473542637781, 55.89678783383733 ], [ -3.71087588715885, 55.901013678858 ], [ -3.707586436436249, 55.899684446799014 ], [ -3.70604565220039, 55.898106248004169 ], [ -3.715473542637781, 55.89678783383733 ] ] ] } }
-]
-}

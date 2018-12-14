@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Bo'ness - Newtown - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.600398607179299, 56.005870171047405 ], [ -3.600062735709053, 56.007748565475339 ], [ -3.593747077123441, 56.007358927014714 ], [ -3.600398607179299, 56.005870171047405 ] ] ] } }
-]
-}

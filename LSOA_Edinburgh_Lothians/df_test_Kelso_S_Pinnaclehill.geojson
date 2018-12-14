@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kelso S - Pinnaclehill" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.434060850948671, 55.592927906308077 ], [ -2.424065894733634, 55.595543682805186 ], [ -2.422691471558252, 55.590211124196195 ], [ -2.429263302854811, 55.590330582583157 ], [ -2.434060850948671, 55.592927906308077 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Seafar - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.98300481118426, 55.941639907766614 ], [ -3.990525653015683, 55.940893072002858 ], [ -3.989541069905147, 55.942959054050675 ], [ -3.985888866792411, 55.944801716372496 ], [ -3.98300481118426, 55.941639907766614 ] ] ] } }
-]
-}

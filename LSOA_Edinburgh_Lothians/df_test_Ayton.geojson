@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Ayton" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.125546241009318, 55.840886465233737 ], [ -2.126723571675528, 55.838319503956576 ], [ -2.131040529985685, 55.83993510746496 ], [ -2.128591141458182, 55.844216718694483 ], [ -2.125546241009318, 55.840886465233737 ] ] ] } }
-]
-}

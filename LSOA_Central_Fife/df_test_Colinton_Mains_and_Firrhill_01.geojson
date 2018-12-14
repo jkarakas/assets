@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Colinton Mains and Firrhill - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.223582741634952, 55.910559063259974 ], [ -3.227100657735897, 55.913040014519154 ], [ -3.222028733308217, 55.913539732659558 ], [ -3.218572104854726, 55.911983544536774 ], [ -3.217826797594675, 55.909133509380823 ], [ -3.223582741634952, 55.910559063259974 ] ] ] } }
-]
-}

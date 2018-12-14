@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Newmains - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.88562202642786, 55.787457162432659 ], [ -3.880573957577664, 55.788165919107136 ], [ -3.879360945938412, 55.786276942818112 ], [ -3.879572368679987, 55.786031066870237 ], [ -3.88562202642786, 55.787457162432659 ] ] ] } }
-]
-}

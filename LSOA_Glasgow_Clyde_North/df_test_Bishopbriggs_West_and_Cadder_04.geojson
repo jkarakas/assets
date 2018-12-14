@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Bishopbriggs West and Cadder - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.224327368175913, 55.906096276829857 ], [ -4.231171756024393, 55.904185764480168 ], [ -4.234304364627109, 55.906079196364338 ], [ -4.229820967496963, 55.908524166654331 ], [ -4.224327368175913, 55.906096276829857 ] ] ] } }
-]
-}

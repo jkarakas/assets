@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cardrona" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.108071825223619, 55.637000270106938 ], [ -3.105632373392645, 55.640233983444148 ], [ -3.101457760662237, 55.637745681434282 ], [ -3.105660776057347, 55.634745514091534 ], [ -3.108071825223619, 55.637000270106938 ] ] ] } }
-]
-}

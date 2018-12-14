@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Greenock East - 09" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.70864601005939, 55.933470576189237 ], [ -4.711841769260777, 55.936915894347493 ], [ -4.707360981492394, 55.936308893125499 ], [ -4.706953942099695, 55.936254033958576 ], [ -4.70864601005939, 55.933470576189237 ] ] ] } }
-]
-}

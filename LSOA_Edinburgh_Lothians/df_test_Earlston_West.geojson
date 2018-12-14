@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Earlston - West" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.68498833322617, 55.64085361035341 ], [ -2.675814243971019, 55.640545584696248 ], [ -2.669614444377736, 55.638450048681555 ], [ -2.68498833322617, 55.64085361035341 ] ] ] } }
-]
-}

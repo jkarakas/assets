@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kirkcaldy Central North" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.157575644419115, 56.111624460035785 ], [ -3.165363719316344, 56.114444445176275 ], [ -3.162157538085105, 56.116918636500039 ], [ -3.157575644419115, 56.111624460035785 ] ] ] } }
-]
-}

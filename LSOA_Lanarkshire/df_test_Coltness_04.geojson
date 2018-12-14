@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Coltness - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.919134053942813, 55.788807692411318 ], [ -3.912480934194921, 55.793535283805234 ], [ -3.910026661748551, 55.791063797749516 ], [ -3.91228997307188, 55.791053245895917 ], [ -3.919134053942813, 55.788807692411318 ] ] ] } }
-]
-}

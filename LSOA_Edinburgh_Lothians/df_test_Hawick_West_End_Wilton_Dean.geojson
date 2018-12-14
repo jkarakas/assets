@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Hawick West End - Wilton Dean" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.794589396677767, 55.428201849866205 ], [ -2.790623433096728, 55.427767170176061 ], [ -2.794956692085277, 55.422620520228143 ], [ -2.802023601626503, 55.421043671125069 ], [ -2.794589396677767, 55.428201849866205 ] ] ] } }
-]
-}

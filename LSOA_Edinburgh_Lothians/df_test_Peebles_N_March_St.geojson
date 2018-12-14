@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Peebles - N - March St" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.198632532471806, 55.65269865774188 ], [ -3.19971941397871, 55.654979439314374 ], [ -3.194243389188435, 55.656819850978557 ], [ -3.191064648745932, 55.655228643903726 ], [ -3.198632532471806, 55.65269865774188 ] ] ] } }
-]
-}

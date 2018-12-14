@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Anderston - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.274976340246397, 55.861871702386658 ], [ -4.269833958459193, 55.856977713924678 ], [ -4.277615011235677, 55.860240147516116 ], [ -4.275930714027604, 55.862590089054642 ], [ -4.274976340246397, 55.861871702386658 ] ] ] } }
-]
-}

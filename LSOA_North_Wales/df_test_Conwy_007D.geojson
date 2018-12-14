@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Conwy 007D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.728697218637056, 53.293471408037504 ], [ -3.741770331233516, 53.300395656764216 ], [ -3.737424877140039, 53.303849511492523 ], [ -3.72194312990125, 53.29856768312677 ], [ -3.728697218637056, 53.293471408037504 ] ] ] } }
-]
-}

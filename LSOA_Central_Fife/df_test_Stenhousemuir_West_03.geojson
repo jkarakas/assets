@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Stenhousemuir West - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.817438037974181, 56.019608041464366 ], [ -3.823674896600251, 56.021214378172935 ], [ -3.82428522182408, 56.022247767275907 ], [ -3.813891258611901, 56.024012779985839 ], [ -3.817438037974181, 56.019608041464366 ] ] ] } }
-]
-}

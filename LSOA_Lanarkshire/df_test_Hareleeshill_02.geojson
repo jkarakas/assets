@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Hareleeshill - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.957925518524308, 55.731281456288485 ], [ -3.952301209093452, 55.732512345527681 ], [ -3.953833486706346, 55.729898152834522 ], [ -3.957925518524308, 55.731281456288485 ] ] ] } }
-]
-}

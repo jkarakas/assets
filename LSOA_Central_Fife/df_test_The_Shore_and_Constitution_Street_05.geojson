@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "The Shore and Constitution Street - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.170050852796019, 55.970976471860936 ], [ -3.168106740874019, 55.973456918461075 ], [ -3.166829625014093, 55.975212186389925 ], [ -3.164503495638034, 55.973741765249336 ], [ -3.164168477055048, 55.973575052262767 ], [ -3.170050852796019, 55.970976471860936 ] ] ] } }
-]
-}

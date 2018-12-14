@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cheshire West and Chester 005B" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.931517263527905, 53.284546138521236 ], [ -2.940275641943646, 53.285147938490979 ], [ -2.942033664752086, 53.285282562209119 ], [ -2.939151449988955, 53.290591226297515 ], [ -2.930144471254151, 53.289625590722082 ], [ -2.931517263527905, 53.284546138521236 ] ] ] } }
-]
-}

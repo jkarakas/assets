@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Crosshouse, Gatehead and Kilmaurs Rural - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.5468167944302, 55.61723763462745 ], [ -4.548549611570278, 55.617507227984774 ], [ -4.544972323954713, 55.624821482135616 ], [ -4.538328353987044, 55.622285430139094 ], [ -4.5468167944302, 55.61723763462745 ] ] ] } }
-]
-}

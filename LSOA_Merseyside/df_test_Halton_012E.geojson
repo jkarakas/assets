@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Halton 012E" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.728909881347064, 53.344822778249025 ], [ -2.740530164191243, 53.341435782124584 ], [ -2.741409844701782, 53.345318346273274 ], [ -2.728909881347064, 53.344822778249025 ] ] ] } }
-]
-}

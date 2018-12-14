@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Blaeberry Hill and East Whitburn - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.668183378089941, 55.868188701457512 ], [ -3.668463585959608, 55.86876002422531 ], [ -3.649327985138341, 55.871617902547882 ], [ -3.648928062698241, 55.869726688358227 ], [ -3.658599841841545, 55.867940830869571 ], [ -3.668183378089941, 55.868188701457512 ] ] ] } }
-]
-}

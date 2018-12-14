@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cardowan and Millerston - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.15106308021362, 55.88727388782182 ], [ -4.146733065149176, 55.888261247590421 ], [ -4.140682930059992, 55.889615844676399 ], [ -4.130605116379885, 55.88781355859745 ], [ -4.129541554143264, 55.885446779270303 ], [ -4.15106308021362, 55.88727388782182 ] ] ] } }
-]
-}

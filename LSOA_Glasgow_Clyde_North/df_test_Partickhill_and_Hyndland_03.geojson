@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Partickhill and Hyndland - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.308391196668815, 55.878783004765722 ], [ -4.311498310343363, 55.877529325468807 ], [ -4.314474527973502, 55.879658119187802 ], [ -4.310509072514407, 55.880253162573005 ], [ -4.308391196668815, 55.878783004765722 ] ] ] } }
-]
-}

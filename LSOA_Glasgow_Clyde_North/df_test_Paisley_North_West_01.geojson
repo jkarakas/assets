@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Paisley North West - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.438338825081238, 55.844749114481267 ], [ -4.441209530433103, 55.844680799502775 ], [ -4.444249525316044, 55.846283179622603 ], [ -4.435340281086384, 55.847385688643868 ], [ -4.438338825081238, 55.844749114481267 ] ] ] } }
-]
-}

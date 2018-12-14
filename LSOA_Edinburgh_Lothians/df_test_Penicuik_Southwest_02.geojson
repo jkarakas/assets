@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Penicuik Southwest - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.232735163399487, 55.828905136096608 ], [ -3.239642420093876, 55.829240066458823 ], [ -3.240483455236373, 55.832089039957935 ], [ -3.236997767249955, 55.831423261761465 ], [ -3.232735163399487, 55.828905136096608 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Girvan Glendoune - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.852326265515998, 55.229776618312464 ], [ -4.858305655039341, 55.232295517245745 ], [ -4.855287683809283, 55.233778276975407 ], [ -4.853894276484091, 55.233659439532694 ], [ -4.852326265515998, 55.229776618312464 ] ] ] } }
-]
-}

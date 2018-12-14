@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Niddrie - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.126329888144786, 55.930197000131763 ], [ -3.120256013956933, 55.929898684286364 ], [ -3.118829003458962, 55.930660617003255 ], [ -3.126264232548745, 55.925864386656684 ], [ -3.126329888144786, 55.930197000131763 ] ] ] } }
-]
-}

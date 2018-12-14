@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Winchburgh, Bridgend and Philpstoun - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.467566047976346, 55.953779567205352 ], [ -3.468819020946289, 55.958791728984018 ], [ -3.462152522665665, 55.954467964019223 ], [ -3.467566047976346, 55.953779567205352 ] ] ] } }
-]
-}

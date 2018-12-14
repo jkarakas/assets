@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Parkhead East and Braidfauld North - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.184955259503776, 55.84932066799901 ], [ -4.190835853433081, 55.849215710238894 ], [ -4.189213343836515, 55.852143227093187 ], [ -4.188885836360686, 55.852171658923055 ], [ -4.184430087156421, 55.850210752867284 ], [ -4.184955259503776, 55.84932066799901 ] ] ] } }
-]
-}

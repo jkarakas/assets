@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Troqueer - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.611793691010333, 55.058624252471027 ], [ -3.615476692621728, 55.061433384467357 ], [ -3.611764990303748, 55.062974478791766 ], [ -3.610616140475219, 55.062441461438844 ], [ -3.611793691010333, 55.058624252471027 ] ] ] } }
-]
-}

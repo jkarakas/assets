@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kennoway East" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.044626642794421, 56.208943458214847 ], [ -3.048116125704258, 56.210427210667127 ], [ -3.045586299483852, 56.212887184020097 ], [ -3.039291300319231, 56.207863761522077 ], [ -3.044626642794421, 56.208943458214847 ] ] ] } }
-]
-}

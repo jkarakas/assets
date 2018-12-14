@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Gallowgate North and Bellgrove - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.239379716941638, 55.856793964498912 ], [ -4.243478661985334, 55.85687704678741 ], [ -4.241399990265379, 55.859071924834971 ], [ -4.239379716941638, 55.856793964498912 ] ] ] } }
-]
-}

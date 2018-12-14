@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Pitreavie Castle East and Heathery" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.415113815668162, 56.048990938526252 ], [ -3.414179950008695, 56.054840653078699 ], [ -3.41376645565686, 56.05430442125288 ], [ -3.41136530932827, 56.050727894619648 ], [ -3.415113815668162, 56.048990938526252 ] ] ] } }
-]
-}

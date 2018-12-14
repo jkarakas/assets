@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Stevenston Ardeer - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.747817061353564, 55.631314814975511 ], [ -4.747240010217043, 55.63351206618961 ], [ -4.743403587387315, 55.633867644440905 ], [ -4.744315892208682, 55.629190945936116 ], [ -4.747817061353564, 55.631314814975511 ] ] ] } }
-]
-}

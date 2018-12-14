@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Bonnyton and Town Centre - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.50958771114539, 55.612756258385502 ], [ -4.515748378928647, 55.611749109781599 ], [ -4.519792048704812, 55.615619314568747 ], [ -4.515580587407509, 55.617178047429974 ], [ -4.508924684391291, 55.615421461446886 ], [ -4.50958771114539, 55.612756258385502 ] ] ] } }
-]
-}

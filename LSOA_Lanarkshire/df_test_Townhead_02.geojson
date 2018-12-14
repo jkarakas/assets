@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Townhead - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.040131251099212, 55.866106419505357 ], [ -4.043946075672789, 55.865243187552537 ], [ -4.048899025985629, 55.869465564754464 ], [ -4.046238116022333, 55.868744668408873 ], [ -4.040131251099212, 55.866106419505357 ] ] ] } }
-]
-}

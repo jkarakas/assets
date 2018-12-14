@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cockburnspath and Area" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.373570189523751, 55.871848262154458 ], [ -2.466832349103699, 55.884369247042152 ], [ -2.467428874463345, 55.884923697775804 ], [ -2.366737709240117, 55.94595993216172 ], [ -2.26672149567802, 55.924397017924377 ], [ -2.373570189523751, 55.871848262154458 ] ] ] } }
-]
-}

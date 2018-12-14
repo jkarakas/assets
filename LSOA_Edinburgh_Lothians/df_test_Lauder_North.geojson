@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Lauder - North" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.751340840000852, 55.717902717045526 ], [ -2.755860894689104, 55.71747866810766 ], [ -2.760811976822027, 55.72469641540178 ], [ -2.748534449402763, 55.720178374051891 ], [ -2.751340840000852, 55.717902717045526 ] ] ] } }
-]
-}

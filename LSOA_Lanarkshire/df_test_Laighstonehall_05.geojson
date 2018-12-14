@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Laighstonehall - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.045479454611984, 55.769870116722458 ], [ -4.046146174314842, 55.770470948062879 ], [ -4.04647973444145, 55.771475050338829 ], [ -4.037275825668278, 55.773218721169627 ], [ -4.045479454611984, 55.769870116722458 ] ] ] } }
-]
-}

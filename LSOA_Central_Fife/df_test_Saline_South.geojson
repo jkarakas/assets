@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Saline South" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.573645662676173, 56.114975282466155 ], [ -3.570165388403562, 56.115136400812283 ], [ -3.564092211114566, 56.11285786380251 ], [ -3.568157826522701, 56.110271965192268 ], [ -3.573645662676173, 56.114975282466155 ] ] ] } }
-]
-}

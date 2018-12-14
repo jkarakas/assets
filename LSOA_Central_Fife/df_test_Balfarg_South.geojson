@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Balfarg South" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.162720957906921, 56.211797187861386 ], [ -3.156037889131313, 56.213668088003807 ], [ -3.158391889897149, 56.209375116257753 ], [ -3.162720957906921, 56.211797187861386 ] ] ] } }
-]
-}

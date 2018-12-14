@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Carfin and Cleekhimin - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.961043527367497, 55.802984231828965 ], [ -3.962346113162313, 55.802198838580374 ], [ -3.96651317947, 55.804156727244546 ], [ -3.966120838049008, 55.805230019024414 ], [ -3.961043527367497, 55.802984231828965 ] ] ] } }
-]
-}

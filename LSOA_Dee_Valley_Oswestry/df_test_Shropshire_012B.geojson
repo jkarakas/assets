@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Shropshire 012B" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.06061255746743, 52.796315428511782 ], [ -3.054821041553605, 52.791521958307612 ], [ -3.052643478188507, 52.77315607980286 ], [ -3.090999406831155, 52.795959389506329 ], [ -3.06061255746743, 52.796315428511782 ] ] ] } }
-]
-}

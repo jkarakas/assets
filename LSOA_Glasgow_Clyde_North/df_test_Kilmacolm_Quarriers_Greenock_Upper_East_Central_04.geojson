@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kilmacolm, Quarriers, Greenock Upper East\/Central - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.598665997262797, 55.862166582969081 ], [ -4.631753975366331, 55.842436393362995 ], [ -4.648330081329391, 55.839579995428466 ], [ -4.729750449107089, 55.853118520837349 ], [ -4.676152487612142, 55.863622543079259 ], [ -4.609957447699588, 55.86854538628986 ], [ -4.598665997262797, 55.862166582969081 ] ] ] } }
-]
-}

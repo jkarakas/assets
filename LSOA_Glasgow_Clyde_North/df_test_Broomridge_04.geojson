@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Broomridge - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.928880961976234, 56.098317336739569 ], [ -3.930406932848888, 56.098931521098159 ], [ -3.934461712624113, 56.101878510524351 ], [ -3.924884214504532, 56.101275714829619 ], [ -3.928880961976234, 56.098317336739569 ] ] ] } }
-]
-}

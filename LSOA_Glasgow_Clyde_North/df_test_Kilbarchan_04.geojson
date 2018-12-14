@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kilbarchan - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.53756036979082, 55.828774788012396 ], [ -4.544947877291542, 55.831866184903618 ], [ -4.536733882901661, 55.830855979308076 ], [ -4.53756036979082, 55.828774788012396 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kirkwood and Bargeddie - 07" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.049889749229475, 55.847696836605202 ], [ -4.057682005755522, 55.848163526099214 ], [ -4.048981742763839, 55.850097184675171 ], [ -4.048636522799192, 55.84960864877695 ], [ -4.049889749229475, 55.847696836605202 ] ] ] } }
-]
-}

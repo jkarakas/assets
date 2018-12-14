@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Williamwood - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.289914128204898, 55.787068581596763 ], [ -4.294988073244212, 55.786012246488077 ], [ -4.299907667624895, 55.790459029872366 ], [ -4.294359822016046, 55.790517796783178 ], [ -4.289914128204898, 55.787068581596763 ] ] ] } }
-]
-}

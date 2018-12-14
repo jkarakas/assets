@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Chapel Moss" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.193404969451449, 56.137049257420827 ], [ -3.185764385259171, 56.14189775244013 ], [ -3.185871162208163, 56.13909334499958 ], [ -3.187061249978721, 56.136723891372398 ], [ -3.193404969451449, 56.137049257420827 ] ] ] } }
-]
-}

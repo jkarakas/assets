@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Holmston and Forehill - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.591463490985369, 55.460456466198913 ], [ -4.595172256075666, 55.455508108261505 ], [ -4.598117701196043, 55.455317549084526 ], [ -4.603089539021326, 55.457315211518434 ], [ -4.591463490985369, 55.460456466198913 ] ] ] } }
-]
-}

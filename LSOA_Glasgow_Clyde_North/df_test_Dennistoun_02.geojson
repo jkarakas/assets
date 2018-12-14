@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Dennistoun - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.216469262092743, 55.858472146405248 ], [ -4.217620153584912, 55.85978036631964 ], [ -4.214879050168813, 55.860090367405199 ], [ -4.211856131888752, 55.859760136028342 ], [ -4.216469262092743, 55.858472146405248 ] ] ] } }
-]
-}

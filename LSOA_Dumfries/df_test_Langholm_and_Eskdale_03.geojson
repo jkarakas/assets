@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Langholm and Eskdale - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.002570299111405, 55.148821561940714 ], [ -3.004500358863949, 55.154127886411452 ], [ -2.9972564809721, 55.15403947766027 ], [ -3.002570299111405, 55.148821561940714 ] ] ] } }
-]
-}

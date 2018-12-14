@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Carmondean and Eliburn North - 08" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.544367182880054, 55.903403820415505 ], [ -3.545650580719377, 55.903899918095632 ], [ -3.548817943204301, 55.904696208666401 ], [ -3.54717822406991, 55.906073824642291 ], [ -3.538584760180122, 55.907645734120329 ], [ -3.544367182880054, 55.903403820415505 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kilbirnie South and Longbar - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.686766850765139, 55.74116204685469 ], [ -4.689473131662948, 55.746451061715753 ], [ -4.688142026812358, 55.748412765130503 ], [ -4.68466443594809, 55.749522550319661 ], [ -4.67945433981392, 55.745591454625846 ], [ -4.686766850765139, 55.74116204685469 ] ] ] } }
-]
-}

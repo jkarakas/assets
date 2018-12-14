@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Carstairs, Carstairs Junction and Carnwath - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.625380342877535, 55.700996754016693 ], [ -3.611340268242841, 55.701850771179956 ], [ -3.617129263446606, 55.697726510707533 ], [ -3.625380342877535, 55.700996754016693 ] ] ] } }
-]
-}

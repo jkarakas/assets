@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kingskettle and Balmalcolm" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.072091605326438, 56.251529080661108 ], [ -3.119765094925801, 56.268016511185373 ], [ -3.090058376694675, 56.272657368780983 ], [ -3.072091605326438, 56.251529080661108 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Bathgate West - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.658554625440131, 55.895381839823315 ], [ -3.663468666558491, 55.893971190021396 ], [ -3.666015146436807, 55.897327609153919 ], [ -3.658554625440131, 55.895381839823315 ] ] ] } }
-]
-}

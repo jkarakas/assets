@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Forth - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.927021168429535, 56.122191625453034 ], [ -3.932134178732727, 56.122507778328384 ], [ -3.933195681885318, 56.126712105995395 ], [ -3.928715735435295, 56.12707941151892 ], [ -3.927021168429535, 56.122191625453034 ] ] ] } }
-]
-}

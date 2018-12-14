@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Ardrossan North West - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.810841747862589, 55.655063047719509 ], [ -4.817728333640257, 55.657638408592206 ], [ -4.809298951210954, 55.658911212739881 ], [ -4.810377270664447, 55.655506348443261 ], [ -4.810841747862589, 55.655063047719509 ] ] ] } }
-]
-}

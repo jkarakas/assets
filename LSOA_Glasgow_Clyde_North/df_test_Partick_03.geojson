@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Partick - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.320439143974705, 55.872768369951814 ], [ -4.317744096300978, 55.875077212649714 ], [ -4.315801440393196, 55.873078789952274 ], [ -4.320439143974705, 55.872768369951814 ] ] ] } }
-]
-}

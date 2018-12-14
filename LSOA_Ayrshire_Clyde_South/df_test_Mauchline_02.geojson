@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Mauchline - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.377566650351302, 55.509089162741397 ], [ -4.378702930762267, 55.515184509853611 ], [ -4.378159538942052, 55.516417457757996 ], [ -4.368785440090861, 55.514109481341436 ], [ -4.377566650351302, 55.509089162741397 ] ] ] } }
-]
-}

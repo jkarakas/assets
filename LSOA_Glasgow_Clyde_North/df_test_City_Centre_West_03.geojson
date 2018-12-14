@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "City Centre West - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.262260488391639, 55.867880802124276 ], [ -4.264050354414867, 55.867218339149169 ], [ -4.267811550796973, 55.868806756933544 ], [ -4.265134645618752, 55.868514639458482 ], [ -4.262260488391639, 55.867880802124276 ] ] ] } }
-]
-}

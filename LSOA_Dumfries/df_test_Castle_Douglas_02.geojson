@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Castle Douglas - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.917284123469966, 54.943533008794859 ], [ -3.929802885149027, 54.942277369980324 ], [ -3.931785037989218, 54.945032526609545 ], [ -3.932518679076196, 54.949988396888159 ], [ -3.917284123469966, 54.943533008794859 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Chryston and Muirhead - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.105151313981533, 55.897634120703579 ], [ -4.107297951481924, 55.898842456962484 ], [ -4.104789962082247, 55.899349004448361 ], [ -4.105151313981533, 55.897634120703579 ] ] ] } }
-]
-}

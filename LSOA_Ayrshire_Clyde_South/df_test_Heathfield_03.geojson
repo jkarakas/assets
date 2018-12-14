@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Heathfield - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.596378343554122, 55.482403997318812 ], [ -4.60003246518143, 55.487309492876108 ], [ -4.602835643029236, 55.488668824942579 ], [ -4.5941700151378, 55.4860141787562 ], [ -4.596378343554122, 55.482403997318812 ] ] ] } }
-]
-}

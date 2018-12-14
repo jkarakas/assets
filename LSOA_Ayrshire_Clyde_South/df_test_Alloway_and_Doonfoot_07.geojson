@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Alloway and Doonfoot - 07" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.644039844398634, 55.426063296311582 ], [ -4.666572445479607, 55.42924141732216 ], [ -4.658995940952924, 55.432058018347682 ], [ -4.652005945761756, 55.430538041619819 ], [ -4.644039844398634, 55.426063296311582 ] ] ] } }
-]
-}

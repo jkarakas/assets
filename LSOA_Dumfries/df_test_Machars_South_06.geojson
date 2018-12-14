@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Machars South - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.421348635006924, 54.728102478962022 ], [ -4.415968639423836, 54.739868477074616 ], [ -4.414820316110087, 54.731936310885523 ], [ -4.421348635006924, 54.728102478962022 ] ] ] } }
-]
-}

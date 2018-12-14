@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Paisley Glenburn West - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.440101484069945, 55.816040270837277 ], [ -4.444788123469036, 55.817717777943272 ], [ -4.44078621742007, 55.821365518564633 ], [ -4.437486037257294, 55.818887410856945 ], [ -4.440101484069945, 55.816040270837277 ] ] ] } }
-]
-}

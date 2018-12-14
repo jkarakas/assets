@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "East Wemyss McDuff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.065055912886126, 56.16182102105077 ], [ -3.060607750243534, 56.167647779425963 ], [ -3.058555757607234, 56.163970410658308 ], [ -3.065055912886126, 56.16182102105077 ] ] ] } }
-]
-}

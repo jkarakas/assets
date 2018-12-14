@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Stenhousemuir - Antonshill - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.800978043723003, 56.033427853859351 ], [ -3.802993093291237, 56.032239179480385 ], [ -3.812456522022263, 56.034508799446257 ], [ -3.809534436932796, 56.03620518744188 ], [ -3.801135073230982, 56.037487364779828 ], [ -3.800978043723003, 56.033427853859351 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Ayr South Harbour and Town Centre - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.636071250576759, 55.465980695463202 ], [ -4.641551043456862, 55.465439606847859 ], [ -4.639819991847683, 55.468271042440023 ], [ -4.636071250576759, 55.465980695463202 ] ] ] } }
-]
-}

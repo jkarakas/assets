@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Twechar and Harestanes East - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.119454187945705, 55.94371705374077 ], [ -4.119758172923763, 55.943711822158249 ], [ -4.122266899332373, 55.945367171776908 ], [ -4.124578363513501, 55.948095334493473 ], [ -4.117765849878623, 55.94828455352868 ], [ -4.119454187945705, 55.94371705374077 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Irvine Castlepark South - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.667925483714487, 55.626616520115064 ], [ -4.661585486096366, 55.627302646733114 ], [ -4.660550506984123, 55.624925119593414 ], [ -4.664376572201414, 55.623952135095749 ], [ -4.667925483714487, 55.626616520115064 ] ] ] } }
-]
-}

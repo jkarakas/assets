@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Grangemouth - Bowhouse - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.716314829001534, 55.998016467828499 ], [ -3.714349228804398, 56.001846565072583 ], [ -3.709930347863711, 56.001502434996063 ], [ -3.716314829001534, 55.998016467828499 ] ] ] } }
-]
-}

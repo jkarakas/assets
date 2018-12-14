@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Hawick Central - Weensland" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.767488591543899, 55.427854985575685 ], [ -2.772516341273279, 55.424648295783783 ], [ -2.774154867615627, 55.427759059129947 ], [ -2.775072199807116, 55.429415624631567 ], [ -2.759124423841863, 55.433417974745041 ], [ -2.767488591543899, 55.427854985575685 ] ] ] } }
-]
-}

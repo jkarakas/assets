@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Newington and Dalkeith Road - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.172289555156201, 55.941689610257654 ], [ -3.175333789159665, 55.94059384740855 ], [ -3.1783018819428, 55.941964709444065 ], [ -3.175164737292234, 55.942524819684863 ], [ -3.172289555156201, 55.941689610257654 ] ] ] } }
-]
-}

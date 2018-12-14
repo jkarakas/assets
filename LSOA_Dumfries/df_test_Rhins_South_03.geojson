@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Rhins South - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.976450436136176, 54.733289679623965 ], [ -4.930400721182449, 54.759168891594278 ], [ -4.880126756943111, 54.671640176121358 ], [ -4.922186347786693, 54.643367536645272 ], [ -4.976450436136176, 54.733289679623965 ] ] ] } }
-]
-}

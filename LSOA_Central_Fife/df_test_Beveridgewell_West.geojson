@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Beveridgewell West" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.472059684849677, 56.078659054808369 ], [ -3.477536804664601, 56.079022322714906 ], [ -3.477887506662078, 56.081200998567496 ], [ -3.470480828991845, 56.08221129482969 ], [ -3.472059684849677, 56.078659054808369 ] ] ] } }
-]
-}

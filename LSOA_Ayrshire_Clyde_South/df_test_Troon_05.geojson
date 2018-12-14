@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Troon - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.668891177136114, 55.541630570979592 ], [ -4.669862258409653, 55.545487004504054 ], [ -4.669471066813782, 55.544943920177325 ], [ -4.668891177136114, 55.541630570979592 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Gorebridge and Middleton - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.048231895732931, 55.834632523665711 ], [ -3.047417367714945, 55.839556168184991 ], [ -3.044918702821839, 55.839090541604861 ], [ -3.048231895732931, 55.834632523665711 ] ] ] } }
-]
-}

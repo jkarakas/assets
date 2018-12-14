@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Renfrewshire Rural North and Langbank - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.597207376727862, 55.927692767259948 ], [ -4.577629461582651, 55.923825562333512 ], [ -4.592328192435571, 55.922751828416033 ], [ -4.597207376727862, 55.927692767259948 ] ] ] } }
-]
-}

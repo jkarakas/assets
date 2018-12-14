@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Peebles - N - Connor St" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.19971941397871, 55.654979439314374 ], [ -3.196311349354556, 55.66152748754272 ], [ -3.192081190423704, 55.657271391120375 ], [ -3.194243389188435, 55.656819850978557 ], [ -3.19971941397871, 55.654979439314374 ] ] ] } }
-]
-}

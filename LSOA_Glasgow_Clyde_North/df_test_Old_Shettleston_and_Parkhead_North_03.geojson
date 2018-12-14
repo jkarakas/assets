@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Old Shettleston and Parkhead North - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.177920857189811, 55.854082873914081 ], [ -4.183590086805805, 55.854752367835864 ], [ -4.188042348352055, 55.854651949980699 ], [ -4.18696781659647, 55.858404306514856 ], [ -4.177920857189811, 55.854082873914081 ] ] ] } }
-]
-}

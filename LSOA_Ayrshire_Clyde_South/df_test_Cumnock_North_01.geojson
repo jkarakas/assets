@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cumnock North - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.269556167027956, 55.448202063678089 ], [ -4.269817929360674, 55.4494555268314 ], [ -4.261692003312276, 55.453794365427534 ], [ -4.262214390090953, 55.449506516020165 ], [ -4.269556167027956, 55.448202063678089 ] ] ] } }
-]
-}

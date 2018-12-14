@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Mearnskirk and South Kirkhill - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.318677072440938, 55.770225516688015 ], [ -4.309949072868261, 55.770111316881241 ], [ -4.313260697194136, 55.766265181163014 ], [ -4.318677072440938, 55.770225516688015 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Braes Villages - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.747587959757084, 55.966844054392766 ], [ -3.751744775786342, 55.963677872342728 ], [ -3.756247675418197, 55.96877879116434 ], [ -3.749305003972183, 55.970066902161633 ], [ -3.747587959757084, 55.966844054392766 ] ] ] } }
-]
-}

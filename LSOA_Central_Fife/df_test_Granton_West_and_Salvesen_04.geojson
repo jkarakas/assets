@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Granton West and Salvesen - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.254170371897464, 55.975432575916905 ], [ -3.254740897344921, 55.976720683131681 ], [ -3.250883792746422, 55.977586189977899 ], [ -3.250726797574177, 55.976345761091743 ], [ -3.254170371897464, 55.975432575916905 ] ] ] } }
-]
-}

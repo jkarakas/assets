@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Coaltown of Balgonie West" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.127162787224775, 56.183549646432553 ], [ -3.13949752540496, 56.183305292493586 ], [ -3.139352296898752, 56.184384841179366 ], [ -3.126817680768373, 56.186036184537002 ], [ -3.127162787224775, 56.183549646432553 ] ] ] } }
-]
-}

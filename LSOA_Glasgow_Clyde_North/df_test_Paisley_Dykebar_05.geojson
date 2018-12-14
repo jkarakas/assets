@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Paisley Dykebar - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.391521983692484, 55.829518432147893 ], [ -4.387350118948922, 55.83468795323472 ], [ -4.385508042485629, 55.829074603802397 ], [ -4.391521983692484, 55.829518432147893 ] ] ] } }
-]
-}

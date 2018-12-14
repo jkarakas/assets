@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Comrie East" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.570809925989512, 56.083154699700472 ], [ -3.573192266866614, 56.083764364170939 ], [ -3.575747181506933, 56.087299139711561 ], [ -3.563655523961496, 56.087369996923329 ], [ -3.570809925989512, 56.083154699700472 ] ] ] } }
-]
-}

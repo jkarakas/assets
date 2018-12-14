@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Elie" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.817443700501513, 56.189244744327389 ], [ -2.8357010402343, 56.191581544138771 ], [ -2.801483728514024, 56.215168376683756 ], [ -2.787444850749527, 56.197789698133597 ], [ -2.817443700501513, 56.189244744327389 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cardonald West and Central - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.347779510331923, 55.841062418622379 ], [ -4.349268952720521, 55.843775221395177 ], [ -4.347180430748756, 55.844902612010202 ], [ -4.345737066866757, 55.843483133805663 ], [ -4.344991519050723, 55.841978433299836 ], [ -4.347779510331923, 55.841062418622379 ] ] ] } }
-]
-}

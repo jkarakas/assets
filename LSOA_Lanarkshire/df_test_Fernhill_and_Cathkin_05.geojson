@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Fernhill and Cathkin - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.212315664153444, 55.809595720089462 ], [ -4.212732188001679, 55.810334670022385 ], [ -4.204733575268533, 55.810960086017573 ], [ -4.197193665639945, 55.808291018340235 ], [ -4.212315664153444, 55.809595720089462 ] ] ] } }
-]
-}

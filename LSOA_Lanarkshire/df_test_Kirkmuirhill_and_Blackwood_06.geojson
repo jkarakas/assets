@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kirkmuirhill and Blackwood - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.918885027307089, 55.671644626825199 ], [ -3.922941581761662, 55.670830743148983 ], [ -3.926996514192656, 55.670830028761841 ], [ -3.928534133336021, 55.674910499199328 ], [ -3.923168488085733, 55.677703381380539 ], [ -3.918885027307089, 55.671644626825199 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Stane - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.780921622865622, 55.81202450466543 ], [ -3.788318244112513, 55.814685451072826 ], [ -3.781280177500266, 55.814997623914209 ], [ -3.774627676295648, 55.814694649208228 ], [ -3.780921622865622, 55.81202450466543 ] ] ] } }
-]
-}

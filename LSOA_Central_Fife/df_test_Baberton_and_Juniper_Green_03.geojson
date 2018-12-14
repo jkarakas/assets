@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Baberton and Juniper Green - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.276114856572659, 55.907482890247813 ], [ -3.283707130564884, 55.90729613856309 ], [ -3.284472547525033, 55.912544759815503 ], [ -3.278943112249371, 55.910649153181623 ], [ -3.272869801099329, 55.909017081731328 ], [ -3.276114856572659, 55.907482890247813 ] ] ] } }
-]
-}

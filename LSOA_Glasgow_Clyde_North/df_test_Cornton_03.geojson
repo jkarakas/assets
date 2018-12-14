@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cornton - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.943266114253294, 56.136508831279691 ], [ -3.942463189155519, 56.138777056164436 ], [ -3.941165749161193, 56.139219816117922 ], [ -3.936761090308935, 56.136125742447554 ], [ -3.943266114253294, 56.136508831279691 ] ] ] } }
-]
-}

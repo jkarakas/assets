@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Dalgety Bay South East" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.355781807900359, 56.026943566053653 ], [ -3.359568733189887, 56.031519274927007 ], [ -3.355045073453831, 56.032079427693802 ], [ -3.345892533746013, 56.032050110946187 ], [ -3.355781807900359, 56.026943566053653 ] ] ] } }
-]
-}

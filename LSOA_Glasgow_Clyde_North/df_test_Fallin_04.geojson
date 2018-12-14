@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Fallin - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.874474148329649, 56.102282740335752 ], [ -3.882672059307761, 56.106183878103998 ], [ -3.875037565617791, 56.104610633237257 ], [ -3.873894019501373, 56.104241583661114 ], [ -3.874474148329649, 56.102282740335752 ] ] ] } }
-]
-}

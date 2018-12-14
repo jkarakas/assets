@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Raith Estate and Southerton" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.16877100505749, 56.103764753595108 ], [ -3.169014575103823, 56.10225292866339 ], [ -3.173550656020258, 56.099374684608641 ], [ -3.178804547897708, 56.10064133978387 ], [ -3.173929830289189, 56.11214395900253 ], [ -3.16877100505749, 56.103764753595108 ] ] ] } }
-]
-}

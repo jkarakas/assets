@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Tullibody South - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.847119964217416, 56.131190889574796 ], [ -3.850802623391844, 56.135376901137292 ], [ -3.849187558451627, 56.135344775597588 ], [ -3.845747465412319, 56.135335728319298 ], [ -3.847119964217416, 56.131190889574796 ] ] ] } }
-]
-}

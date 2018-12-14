@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Jedburgh - West Central" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.5571922429272, 55.480682789139912 ], [ -2.544996998818905, 55.490097065717123 ], [ -2.54502875396178, 55.484475322459147 ], [ -2.551173516451927, 55.477947844799914 ], [ -2.5571922429272, 55.480682789139912 ] ] ] } }
-]
-}

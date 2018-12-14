@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Gorbals and Hutchesontown - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.243920241386573, 55.847087617463501 ], [ -4.240999732372939, 55.849624438625916 ], [ -4.240889116889611, 55.849713250239276 ], [ -4.237995768574509, 55.846962102801385 ], [ -4.243920241386573, 55.847087617463501 ] ] ] } }
-]
-}

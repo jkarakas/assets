@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Newtown St Boswells - South" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.677641808524564, 55.575809651508571 ], [ -2.67206568194583, 55.58027364257218 ], [ -2.661261546171889, 55.582048653038186 ], [ -2.672866268208678, 55.573930799211396 ], [ -2.677641808524564, 55.575809651508571 ] ] ] } }
-]
-}

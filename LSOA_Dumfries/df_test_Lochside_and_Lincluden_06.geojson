@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Lochside and Lincluden - 06" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.630455256636774, 55.084762411065377 ], [ -3.632397530567649, 55.084893430172301 ], [ -3.636711575325315, 55.0871859249552 ], [ -3.637564398831286, 55.087637249685983 ], [ -3.629586498008369, 55.08574466778191 ], [ -3.630455256636774, 55.084762411065377 ] ] ] } }
-]
-}

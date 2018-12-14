@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kilmacolm Central - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.629300051198858, 55.892414055618111 ], [ -4.631731842391394, 55.891713773501955 ], [ -4.630475091400658, 55.894552355595572 ], [ -4.629863306363705, 55.894118792640562 ], [ -4.629300051198858, 55.892414055618111 ] ] ] } }
-]
-}

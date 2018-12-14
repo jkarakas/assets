@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Duddingston and Portobello South - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.126449926336671, 55.93888256557134 ], [ -3.129837960956409, 55.942526570835909 ], [ -3.124209366394593, 55.94277574539128 ], [ -3.116915752899184, 55.943587879269089 ], [ -3.116184773313114, 55.940997725040759 ], [ -3.126449926336671, 55.93888256557134 ] ] ] } }
-]
-}

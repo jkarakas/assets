@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Inverkip and Wemyss Bay - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.862087401216987, 55.901960950300982 ], [ -4.867610854383336, 55.900063843563807 ], [ -4.866031999012605, 55.904731132302494 ], [ -4.862087401216987, 55.901960950300982 ] ] ] } }
-]
-}

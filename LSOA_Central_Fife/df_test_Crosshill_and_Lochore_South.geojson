@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Crosshill and Lochore South" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.327704523146159, 56.155199104535448 ], [ -3.321390806340349, 56.154553322947457 ], [ -3.321359159030195, 56.151526413064921 ], [ -3.327704523146159, 56.155199104535448 ] ] ] } }
-]
-}

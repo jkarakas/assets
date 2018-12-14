@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Dunterlie, East Arthurlie and Dovecothall - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.382476019190951, 55.803778782730902 ], [ -4.38143556600688, 55.803987691214608 ], [ -4.379968198223816, 55.800340095128732 ], [ -4.382476019190951, 55.803778782730902 ] ] ] } }
-]
-}

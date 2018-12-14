@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Denny - Nethermains - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.920673983607698, 56.012255830773078 ], [ -3.919512051252402, 56.019553036302234 ], [ -3.917911506907716, 56.016396698843522 ], [ -3.915511709145449, 56.013555832569125 ], [ -3.920673983607698, 56.012255830773078 ] ] ] } }
-]
-}

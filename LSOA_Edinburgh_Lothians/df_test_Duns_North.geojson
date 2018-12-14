@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Duns - North" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.343657937018148, 55.777839589893595 ], [ -2.348982208845043, 55.777128678543249 ], [ -2.336990356081483, 55.783290048433805 ], [ -2.339641112134681, 55.780084069199809 ], [ -2.343657937018148, 55.777839589893595 ] ] ] } }
-]
-}

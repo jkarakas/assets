@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Dalmilling - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.607520354357421, 55.468600643036815 ], [ -4.601388305511323, 55.470151421140997 ], [ -4.598207640954641, 55.470389802043911 ], [ -4.593346154212481, 55.467203065597964 ], [ -4.607520354357421, 55.468600643036815 ] ] ] } }
-]
-}

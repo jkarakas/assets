@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Falkirk - Middlefield - 05" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.761534359766657, 56.002240146339382 ], [ -3.769613029126262, 56.002852341694869 ], [ -3.766293216740151, 56.004256869345738 ], [ -3.755556740707422, 56.003699108723623 ], [ -3.761534359766657, 56.002240146339382 ] ] ] } }
-]
-}

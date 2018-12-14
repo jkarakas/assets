@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Cranhill, Lightburn and Queenslie South - 02" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.173355281834342, 55.862737489250577 ], [ -4.177136662252481, 55.862913282310693 ], [ -4.177743077832943, 55.863468747318194 ], [ -4.175357958108079, 55.866392212075866 ], [ -4.168510701411306, 55.865684228798202 ], [ -4.173355281834342, 55.862737489250577 ] ] ] } }
-]
-}

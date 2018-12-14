@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Newton Stewart - 08" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.294851294216847, 54.84372904297765 ], [ -4.411002298070047, 54.933410008259195 ], [ -4.327369966660227, 54.986450158136371 ], [ -4.294851294216847, 54.84372904297765 ] ] ] } }
-]
-}

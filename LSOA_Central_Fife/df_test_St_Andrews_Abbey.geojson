@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "St Andrews Abbey" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.784205320911256, 56.339894121509971 ], [ -2.795044731945404, 56.339404105434255 ], [ -2.796278526637267, 56.34124630851607 ], [ -2.789213331151664, 56.341759036800511 ], [ -2.784205320911256, 56.339894121509971 ] ] ] } }
-]
-}

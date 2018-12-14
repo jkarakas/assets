@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Isle of Anglesey 005A" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.07885137218797, 53.279428998545612 ], [ -4.107494082463633, 53.253870460840957 ], [ -4.140212505224483, 53.276775041382237 ], [ -4.104523734606389, 53.29140868115779 ], [ -4.07885137218797, 53.279428998545612 ] ] ] } }
-]
-}

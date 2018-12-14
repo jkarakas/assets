@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Falkirk - Merchiston and New Carron Village - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.796295492234248, 56.011976272833387 ], [ -3.796303138575406, 56.01234552590094 ], [ -3.793897433687519, 56.016915032879588 ], [ -3.792428123514506, 56.01763816789154 ], [ -3.78949600074655, 56.013773900869225 ], [ -3.796295492234248, 56.011976272833387 ] ] ] } }
-]
-}

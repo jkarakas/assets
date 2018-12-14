@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Torryburn" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.569594749317776, 56.056110665378696 ], [ -3.573595985453832, 56.058261558684038 ], [ -3.564357536930169, 56.057845177253093 ], [ -3.569594749317776, 56.056110665378696 ] ] ] } }
-]
-}

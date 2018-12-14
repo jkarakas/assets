@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Crossford, Braidwood and Yieldshields - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.854862057370839, 55.699630159364851 ], [ -3.856551456791237, 55.689952748595317 ], [ -3.874301920648808, 55.704151115689662 ], [ -3.854862057370839, 55.699630159364851 ] ] ] } }
-]
-}

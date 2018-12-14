@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Kirkcudbright - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.060958830058565, 54.832651170813847 ], [ -4.062063309365401, 54.834227705808964 ], [ -4.053295896092876, 54.83750458043292 ], [ -4.047880950846624, 54.835757828959537 ], [ -4.060958830058565, 54.832651170813847 ] ] ] } }
-]
-}

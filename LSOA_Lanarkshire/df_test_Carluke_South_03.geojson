@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Carluke South - 03" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.832683164736459, 55.726525314400803 ], [ -3.832501736873903, 55.731561494606545 ], [ -3.830047374589765, 55.728039915396955 ], [ -3.832683164736459, 55.726525314400803 ] ] ] } }
-]
-}

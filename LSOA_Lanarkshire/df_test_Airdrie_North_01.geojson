@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Airdrie North - 01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.973548512776655, 55.876311721403205 ], [ -3.976364594084767, 55.879544256422108 ], [ -3.970293741660782, 55.879603746909638 ], [ -3.973548512776655, 55.876311721403205 ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "LSOA": "Ratho, Ingliston and Gogar - 04" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.367005870604056, 55.924218211458985 ], [ -3.392025866516079, 55.922599062408629 ], [ -3.391749146519139, 55.938958277013448 ], [ -3.367005870604056, 55.924218211458985 ] ] ] } }
-]
-}
